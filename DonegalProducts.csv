@@ -1,0 +1,890 @@
+ProductId,ProductCategory,ProductTitle,ProductReference,ProductPrice,ProductImageUrl
+3810,Make-up/Eyelash accessories,b'Eyelash comb',Art. nr 4446,9.99,http://donegal.com.pl/2873-large_default/4446.jpg
+3797,Make-up/Eyelash accessories,b'Tweezers for false eyelashes',Art. nr 4118,7.19,http://donegal.com.pl/2816-large_default/4118.jpg
+3032,Make-up/Eyelash accessories,b'Eyelash curler BEAUTY CARE',Art. nr 4445,7.59,http://donegal.com.pl/1319-large_default/zalotka-do-rzes-beauty-care.jpg
+1249,Make-up/Eyelash accessories,b'Eyelash curler',Art. nr 1038,7.79,http://donegal.com.pl/643-large_default/zalotka-do-rzes.jpg
+3645,Make-up/Eyelash accessories,b'Eyelash brush 3 pieces',Art. nr 4052,3.39,http://donegal.com.pl/1230-large_default/grzebyk-do-sztucznych-rzes-3szt.jpg
+1247,Make-up/Eyelash accessories,b'Eyelash comb',Art. nr 1035,2.29,http://donegal.com.pl/1134-large_default/grzebyk-szczoteczka-do-rzes.jpg
+1259,Make-up/Eyelash accessories,b'Eyelash extension glue 5 g',Art. nr 9354,12.19,http://donegal.com.pl/2333-large_default/klej-do-rzes-5g-zel-transparentny.jpg
+1258,Make-up/Eyelash accessories,b'Eyelash extension glue 7 g',Art. nr 9150,11.29,http://donegal.com.pl/2334-large_default/klej-do-rzes-7g-czarny.jpg
+
+1271,Make-up/Applicators,b'Eyeshadow applicators 6 pcs',Art. nr 9946,4.79,http://donegal.com.pl/2335-large_default/aplikatory-do-cieni-6szt.jpg
+1270,Make-up/Applicators,b'Eyeshadow applicators 6 pcs',Art. nr 9944,6.19,http://donegal.com.pl/2336-large_default/aplikatory-do-cieni-6szt.jpg
+1261,Make-up/Applicators,b'Eyeshadow applicators 2 pcs',Art. nr 1039,3.99,http://donegal.com.pl/2337-large_default/aplikatory-do-cieni-2szt.jpg
+1264,Make-up/Applicators,b'Eyeshadow applicators 25 pcs',Art. nr 1064,10.79,http://donegal.com.pl/2338-large_default/aplikatory-do-cieni-25szt.jpg
+1267,Make-up/Applicators,b'Eyeshadow applicators with brush 2 pcs',Art. nr 9259,3.99,http://donegal.com.pl/2339-large_default/aplikatory-z-pedzelkami-2szt.jpg
+2411,Make-up/Applicators,b'Eyeshadow applicators with brush 6 pcs',Art. nr 4024,7.99,http://donegal.com.pl/1668-large_default/aplikator-z-pedzelkiem-6szt.jpg
+1263,Make-up/Applicators,b'Eyeshadow applicator',Art. nr 1057,2.39,http://donegal.com.pl/2852-large_default/aplikator-do-cieni.jpg
+3233,Make-up/Applicators,b'Eyeshadow applicators 6 pcs',Art. nr 4040,5.99,http://donegal.com.pl/1032-large_default/aplikator-kosmetyczny-do-cieni-lateksowy-prettiness-6szt.jpg
+
+3718,Make-up/Eyelid glitters,b'Green glitter',Art. nr 3503/07,6.39,http://donegal.com.pl/2263-large_default/3503-07.jpg
+3717,Make-up/Eyelid glitters,b'Cherry glitter',Art. nr 3502/08,6.39,http://donegal.com.pl/2262-large_default/3502-08.jpg
+1772,Make-up/Eyelid glitters,b'Silver glitter',Art. nr 3510,1.99,http://donegal.com.pl/2180-large_default/brokat-pyl-srebrny.jpg
+1791,Make-up/Eyelid glitters,b'Lilac glitter',Art. nr 3524,1.99,http://donegal.com.pl/1161-large_default/brokat-pyl-rozowo-bezowy.jpg
+1785,Make-up/Eyelid glitters,b'Burgundy glitter',Art. nr 3521,1.99,http://donegal.com.pl/1002-large_default/brokat-pyl-braz-ciemny.jpg
+1779,Make-up/Eyelid glitters,b'Turquoise glitter',Art. nr 3517,1.99,http://donegal.com.pl/840-large_default/brokat-pyl-turkusowy-ciemny.jpg
+1787,Make-up/Eyelid glitters,b'Light green glitter',Art. nr 3523,1.99,http://donegal.com.pl/322-large_default/brokat-pyl-zielony-jasny.jpg
+1776,Make-up/Eyelid glitters,b'Green glitter',Art. nr 3514,1.99,http://donegal.com.pl/777-large_default/brokat-pyl-zielony.jpg
+1786,Make-up/Eyelid glitters,b'Copper glitter',Art. nr 3522,1.99,http://donegal.com.pl/1736-large_default/brokat-pyl-miedziany.jpg
+1778,Make-up/Eyelid glitters,b'Brown glitter',Art. nr 3516,1.99,http://donegal.com.pl/83-large_default/brokat-pyl-braz-jasny.jpg
+1774,Make-up/Eyelid glitters,b'Red glitter',Art. nr 3512,1.99,http://donegal.com.pl/1506-large_default/brokat-pyl-czerwony-ciemny.jpg
+3722,Make-up/Eyelid glitters,b'Gold glitter',Art. nr 3501/3,1.99,http://donegal.com.pl/2258-large_default/3501-3.jpg
+3725,Make-up/Eyelid glitters,b'Pink glitter',Art. nr 3501/8,1.99,http://donegal.com.pl/2261-large_default/35018.jpg
+3723,Make-up/Eyelid glitters,b'Purple glitter',Art. nr 3501/6,1.99,http://donegal.com.pl/2259-large_default/3501-6.jpg
+3724,Make-up/Eyelid glitters,b'Maroon glitter',Art. nr 3501/7,1.99,http://donegal.com.pl/2260-large_default/3501-7.jpg
+
+3814,Make-up/Sponges and puffs,b'Marble make-up sponge BLENDING SPONGE',Art. nr 4326,16.89,http://donegal.com.pl/2969-large_default/4326.jpg
+3081,Make-up/Sponges and puffs,b'Make-up sponge BLENDING SPONGE',Art. nr 4304,13.99,http://donegal.com.pl/2379-large_default/gabka-do-makijazublending-sponge.jpg
+3665,Make-up/Sponges and puffs,b'Make-up sponge BLENDING SPONGE JUNGLE',Art. nr 4323,14.99,http://donegal.com.pl/2378-large_default/gabka-do-makijazu-blending-sponge-super-soft.jpg
+3802,Make-up/Sponges and puffs,b'Make-up sponge 3 pcs',Art. nr 4327,8.59,http://donegal.com.pl/2846-large_default/4327.jpg
+3584,Make-up/Sponges and puffs,b'Make-up mini sponge BLENDING SPONGE 2 pcs',Art. nr 4309,13.99,http://donegal.com.pl/1326-large_default/mini-blending-sponge.jpg
+3309,Make-up/Sponges and puffs,b'Make-up sponge 4 pcs',Art. nr 4305,5.99,http://donegal.com.pl/1040-large_default/gabki-do-makijazu-4szt.jpg
+3641,Make-up/Sponges and puffs,b'Make-up sponge French macarons 2 pcs',Art. nr 4319,24.49,http://donegal.com.pl/147-large_default/gabeczka-do-makijazu-2-szt.jpg
+3642,Make-up/Sponges and puffs,b'Make-up sponge French macaron',Art. nr 4318,13.19,http://donegal.com.pl/1150-large_default/gabeczka-do-makijazu.jpg
+3777,Make-up/Sponges and puffs,b'Make-up sponge Hearts 4 pcs',Art. nr 9672,5.79,http://donegal.com.pl/2964-large_default/9672.jpg
+3314,Make-up/Sponges and puffs,b'Make-up sponge 4 pcs',Art. nr 4307,6.99,http://donegal.com.pl/241-large_default/gabeczki-do-makijazu-4-szt.jpg
+1296,Make-up/Sponges and puffs,b'Make-up sponge 8 pcs',Art. nr 4300,5.59,http://donegal.com.pl/1123-large_default/gabka-kosmetyczna-8-szt.jpg
+3612,Make-up/Sponges and puffs,b'Make-up sponge applicator',Art. nr 4316,14.89,http://donegal.com.pl/1381-large_default/aplikator-do-podkladu.jpg
+3613,Make-up/Sponges and puffs,b'Make-up sponge applicator',Art. nr 4315,14.89,http://donegal.com.pl/2113-large_default/aplikator-do-podkladu.jpg
+1304,Make-up/Sponges and puffs,b'Cosmetic sponge',Art. nr 9265,3.99,http://donegal.com.pl/1202-large_default/gabka-lateksowa.jpg
+1295,Make-up/Sponges and puffs,b'Cosmetic sponge 2 pcs',Art. nr 1077,7.39,http://donegal.com.pl/1864-large_default/gabka-lateksowa-kpl-2-szt.jpg
+3310,Make-up/Sponges and puffs,b'Make-up sponge 4 pcs',Art. nr 4306,5.99,http://donegal.com.pl/121-large_default/gabeczki-do-makijazu-4-szt.jpg
+3827,Make-up/Sponges and puffs,b'Make-up sponge 12 pcs',Art. nr 4328,6.19,http://donegal.com.pl/2971-large_default/4328.jpg
+1297,Make-up/Sponges and puffs,b'Make-up sponge 24 pcs',Art. nr 4301,9.69,http://donegal.com.pl/2668-large_default/gabka-kosmetyczna-24-szt.jpg
+1305,Make-up/Sponges and puffs,b'Cellulose make-up sponge 2 pcs',Art. nr 9617,9.79,http://donegal.com.pl/2011-large_default/gabka-celulozowa-2-szt.jpg
+1303,Make-up/Sponges and puffs,b'Cellulose make-up sponge',Art. nr 9084,3.29,http://donegal.com.pl/2758-large_default/gabka-celulozowa.jpg
+1308,Make-up/Sponges and puffs,b'Cellulose make-up sponge 2 pcs',Art. nr 9752,6.89,http://donegal.com.pl/670-large_default/gabka-celulozowa-2-szt.jpg
+
+3860,Make-up/Brushes,b'Powder brush SORBET BRUSH',Art. nr 4225,34.99,http://donegal.com.pl/3030-large_default/4225.jpg
+3867,Make-up/Brushes,b'Tapered powder brush SORBET BRUSH',Art. nr 4228,34.99,http://donegal.com.pl/3037-large_default/4228.jpg
+3861,Make-up/Brushes,b'Blush brush SORBET BRUSH',Art. nr 4226,34.99,http://donegal.com.pl/3032-large_default/4226.jpg
+3862,Make-up/Brushes,b'Contour brush SORBET BRUSH',Art. nr 4227,34.99,http://donegal.com.pl/3035-large_default/4227.jpg
+3863,Make-up/Brushes,b'Eyeshadow blending brush SORBET BRUSH',Art. nr 4229,13.99,http://donegal.com.pl/3039-large_default/4229.jpg
+3864,Make-up/Brushes,b'Eyeshadow blending brush SORBET BRUSH',Art. nr 4230,13.99,http://donegal.com.pl/3041-large_default/pedzel-do-blendowania-cieni-sorbet-brush.jpg
+3865,Make-up/Brushes,b'Concealer brush SORBET BRUSH',Art. nr 4231,13.99,http://donegal.com.pl/3043-large_default/4231.jpg
+3866,Make-up/Brushes,b'Eyebrow contouring brush SORBET BRUSH',Art. nr 4232,13.99,http://donegal.com.pl/3045-large_default/4232.jpg
+3853,Make-up/Brushes,b'Powder brush PINK INK',Art. nr 4218,32.19,http://donegal.com.pl/3016-large_default/4218.jpg
+3852,Make-up/Brushes,b'Tapered powder brush PINK INK',Art. nr 4217,33.89,http://donegal.com.pl/3014-large_default/4217.jpg
+3854,Make-up/Brushes,b'Contour brush PINK INK',Art. nr 4219,29.49,http://donegal.com.pl/3018-large_default/4219.jpg
+3857,Make-up/Brushes,b'Eyeshadow blending brush PINK INK',Art. nr 4222,11.99,http://donegal.com.pl/3024-large_default/4222.jpg
+3855,Make-up/Brushes,b'Eyeshadow blending brush PINK INK',Art. nr 4220,16.89,http://donegal.com.pl/3020-large_default/4220.jpg
+3859,Make-up/Brushes,b'Eyeshadow blending brush PINK INK',Art. nr 4224,11.99,http://donegal.com.pl/3028-large_default/4224.jpg
+3856,Make-up/Brushes,b'Eyeshadow blending brush PINK INK',Art. nr 4221,11.99,http://donegal.com.pl/3022-large_default/4221.jpg
+3858,Make-up/Brushes,b'Eyebrow contouring brush PINK INK',Art. nr 4223,11.99,http://donegal.com.pl/3026-large_default/4223.jpg
+3808,Make-up/Brushes,b'Powder brush ROSY VIBES',Art. nr 4215,32.99,http://donegal.com.pl/2853-large_default/4215.jpg
+3809,Make-up/Brushes,b'Contour brush ROSY VIBES',Art. nr 4216,32.99,http://donegal.com.pl/2855-large_default/4216.jpg
+3807,Make-up/Brushes,b'Foundation brush ROSY VIBES',Art. nr 4214,32.99,http://donegal.com.pl/2857-large_default/4214.jpg
+3803,Make-up/Brushes,b'Double bristle foundation brush ROSY VIBES',Art. nr 4210,32.99,http://donegal.com.pl/2859-large_default/4210.jpg
+3806,Make-up/Brushes,b'Highlighter brush ROSY VIBES',Art. nr 4213,11.99,http://donegal.com.pl/2862-large_default/4213.jpg
+
+3743,Make-up/Tweezers,b'Slant tip tweezers DREAM ROSE',Art. nr 4116,7.59,http://donegal.com.pl/2231-large_default/4116.jpg
+3742,Make-up/Tweezers,b'Straight tip tweezers DREAM ROSE',Art. nr 4115,7.59,http://donegal.com.pl/2229-large_default/4115.jpg
+1374,Make-up/Tweezers,b'Straight tip tweezers',Art. nr 9452,5.89,http://donegal.com.pl/2358-large_default/peseta-kosmetyczna-precision-prosta.jpg
+1359,Make-up/Tweezers,b'Straight tip tweezers',Art. nr 1033,2.59,http://donegal.com.pl/2359-large_default/peseta-kosmetyczna-silver-secure-prosta.jpg
+1371,Make-up/Tweezers,b'Straight tip tweezers',Art. nr 9370,6.99,http://donegal.com.pl/2360-large_default/peseta-kosmetyczna-foxy-eyes-prosta.jpg
+1369,Make-up/Tweezers,b'Slant tip tweezers',Art. nr 9368,6.99,http://donegal.com.pl/2361-large_default/peseta-kosmetyczna-fancy-eyes-skosna.jpg
+1368,Make-up/Tweezers,b'Slant tip tweezers',Art. nr 9023,2.79,http://donegal.com.pl/2363-large_default/peseta-kosmetyczna-precision-ukosna.jpg
+1375,Make-up/Tweezers,b'Slant tip tweezers',Art. nr 9453,5.69,http://donegal.com.pl/2364-large_default/peseta-kosmetyczna-excellent-ukosna.jpg
+3030,Make-up/Tweezers,b'Straight tip tweezers BEAUTY CARE',Art. nr 4110,2.39,http://donegal.com.pl/2375-large_default/peseta-kosmetyczna-prosta-srebrna-beauty-care.jpg
+1360,Make-up/Tweezers,b'Straight tip tweezers',Art. nr 1090,3.99,http://donegal.com.pl/2362-large_default/peseta-golden-eye-w-etui.jpg
+1362,Make-up/Tweezers,b'Slant tip tweezers',Art. nr 1092,4.39,http://donegal.com.pl/2365-large_default/peseta-kosmetyczna-golden-eye-ukosna.jpg
+1377,Make-up/Tweezers,b'Straight tip tweezers',Art. nr 9724,5.89,http://donegal.com.pl/2366-large_default/peseta-kosmetyczna-goldrush-prosta.jpg
+1376,Make-up/Tweezers,b'Slant tip tweezers',Art. nr 9723,5.49,http://donegal.com.pl/2367-large_default/peseta-kosmetyczna-goldrush-ukosna.jpg
+3644,Make-up/Tweezers,b'Eyebrow stancil 3 pieces',Art. nr 4465,5.49,http://donegal.com.pl/1803-large_default/szablony-do-brwi-3szt.jpg
+1365,Make-up/Tweezers,b'Slant tip tweezers',Art. nr 4102,6.99,http://donegal.com.pl/2368-large_default/peseta-kosmetyczna-shinning-diamond-z-cyrkoniami.jpg
+2414,Make-up/Tweezers,b'Slant tip tweezers',Art. nr 4106,5.39,http://donegal.com.pl/2680-large_default/peseta-kosmetyczna-eastern-promises-ukosna.jpg
+3246,Make-up/Tweezers,b'Slant tip tweezers NEON PLAY',Art. nr 4114,6.99,http://donegal.com.pl/2376-large_default/peseta-dwustronna-neon.jpg
+2508,Make-up/Tweezers,b'Slant tip tweezers',Art. nr 4107,5.19,http://donegal.com.pl/2374-large_default/peseta-kosmetyczna-neon-chic-.jpg
+1366,Make-up/Tweezers,b'Slant tip tweezers',Art. nr 4103,4.79,http://donegal.com.pl/2214-large_default/peseta-kosmetyczna-go-girl-ukosna.jpg
+1372,Make-up/Tweezers,b'Slant tip tweezers',Art. nr 9372,8.79,http://donegal.com.pl/58-large_default/peseta-kosmetyczna-gorgeous-eyes-ukosna.jpg
+3046,Make-up/Tweezers,b'Slant tip tweezers NEAON PLAY',Art. nr 4108,6.99,http://donegal.com.pl/2682-large_default/peseta-ukosna-neon-show.jpg
+
+3666,Make-up/Eyelashes,b'False eyelashes with glue JUNGLE',Art. nr 4466,39.39,http://donegal.com.pl/2234-large_default/i-lashes-sztuczne-rzesy.jpg
+3667,Make-up/Eyelashes,b'False eyelashes with glue JUNGLE',Art. nr 4467,39.39,http://donegal.com.pl/2235-large_default/i-lashes-sztuczne-rzesy.jpg
+3668,Make-up/Eyelashes,b'False eyelashes with glue  JUNGLE',Art. nr 4468,39.39,http://donegal.com.pl/2208-large_default/eye-lashes-sztuczne-rzesy.jpg
+3669,Make-up/Eyelashes,b'False eyelashes with glue JUNGLE',Art. nr 4469,39.39,http://donegal.com.pl/2236-large_default/i-lashes-sztuczne-rzesy.jpg
+3831,Make-up/Eyelashes,b'False eyelashes with glue',Art. nr 4472,39.39,http://donegal.com.pl/2980-large_default/4472.jpg
+3830,Make-up/Eyelashes,b'False eyelashes with glue',Art. nr 4471,10.89,http://donegal.com.pl/2978-large_default/4471.jpg
+3829,Make-up/Eyelashes,b'False eyelashes with glue',Art. nr 4470,10.89,http://donegal.com.pl/2976-large_default/4470.jpg
+1393,Make-up/Eyelashes,b'False eyelashes with glue',Art. nr 4455,10.89,http://donegal.com.pl/2988-large_default/sztuczne-rzesy-z-klejem.jpg
+2680,Make-up/Eyelashes,b'False eyelashes with glue',Art. nr 4456,10.89,http://donegal.com.pl/2991-large_default/sztuczne-rzesy-z-klejem.jpg
+1388,Make-up/Eyelashes,b'FALSE LASHES',Art. nr 4450,10.49,http://donegal.com.pl/2990-large_default/sztuczne-rzesy-z-klejem.jpg
+2726,Make-up/Eyelashes,b'False eyelashes with glue',Art. nr 4459,11.19,http://donegal.com.pl/2985-large_default/sztuczne-rzesy-z-klejem.jpg
+1400,Make-up/Eyelashes,b'False eyelashes with glue',Art. nr 9232,10.49,http://donegal.com.pl/2987-large_default/sztuczne-rzesy.jpg
+1398,Make-up/Eyelashes,b'False eyelashes with glue',Art. nr 9230,10.49,http://donegal.com.pl/2992-large_default/sztuczne-rzesy.jpg
+1399,Make-up/Eyelashes,b'False eyelashes',Art. nr 9231,10.49,http://donegal.com.pl/2995-large_default/sztuczne-rzesy.jpg
+3255,Make-up/Eyelashes,b'False eyelashes with glue',Art. nr 4463,10.69,http://donegal.com.pl/2989-large_default/sztuczne-rzesy-polowki-z-klejem-hypnotizing-look.jpg
+3144,Make-up/Eyelashes,b'Indyvidual false eyelashes',Art. nr 4462,14.39,http://donegal.com.pl/2993-large_default/sztuczne-rzesy-kepki-dlugie.jpg
+1402,Make-up/Eyelashes,b'Indyvidual false eyelashes',Art. nr 9980,14.39,http://donegal.com.pl/2997-large_default/sztuczne-rzesy-kepki-srednie.jpg
+1403,Make-up/Eyelashes,b'Indyvidual false eyelashes',Art. nr 9981,14.39,http://donegal.com.pl/2998-large_default/sztuczne-rzesy-kepki-krotkie.jpg
+1401,Make-up/Eyelashes,b'INDIVIDUAL FALSE LASHES MIX OF LENGTH',Art. nr 9979,14.99,http://donegal.com.pl/2996-large_default/sztuczne-rzesy-kepki-mix.jpg
+3254,Make-up/Eyelashes,b'Indyvidual false eyelashes',Art. nr 4464,14.39,http://donegal.com.pl/2994-large_default/pojedyncze-kepki-rzes-pojedyncze-one.jpg
+3645,Make-up/Eyelashes,b'Eyelash brush 3 pieces',Art. nr 4052,3.39,http://donegal.com.pl/1230-large_default/grzebyk-do-sztucznych-rzes-3szt.jpg
+
+3812,Make-up/Make-up accessories,b'Face cleansing brush',Art. nr 6039,14.49,http://donegal.com.pl/2879-large_default/6039.jpg
+3815,Make-up/Make-up accessories,b'Blending sponge stand',Art. nr 4497,9.89,http://donegal.com.pl/2883-large_default/4497.jpg
+3615,Make-up/Make-up accessories,b'Silicone make-up brush cleaner',Art. nr 4499,9.69,http://donegal.com.pl/2383-large_default/czyscik-do-pedzli.jpg
+3307,Make-up/Make-up accessories,b'Silicone dace skin cleaner',Art. nr 4308,4.49,http://donegal.com.pl/1693-large_default/platek-do-mycia-twarzy.jpg
+3237,Make-up/Make-up accessories,b'Sonic face brush SONIMATIC',Art. nr 6026,224.99,http://donegal.com.pl/1603-large_default/soniczna-szczoteczka-do-twarzy-sonimatic.jpg
+3234,Make-up/Make-up accessories,b'Facial cleaning brush',Art. nr 6025,3.39,http://donegal.com.pl/273-large_default/szczoteczka-do-twarzy-clean-up.jpg
+3798,Make-up/Make-up accessories,b'Blackheads removal tool 2 pieces',Art. nr 4117,8.49,http://donegal.com.pl/2815-large_default/4117.jpg
+1383,Make-up/Make-up accessories,b'Make-up remover glove',Art. nr 4101,14.59,http://donegal.com.pl/2316-large_default/rekawica-do-demakijazu.jpg
+3652,Make-up/Make-up accessories,b'Microfiber face cloth',Art. nr 4320,10.29,http://donegal.com.pl/1958-large_default/myjka-do-twarzy.jpg
+3682,Make-up/Make-up accessories,b'Mask applicator',Art. nr 4324,13.09,http://donegal.com.pl/552-large_default/szpatulka-kosmetyczna.jpg
+3819,Make-up/Make-up accessories,b'Cosmetic sharpener',Art. nr 4119,11.59,http://donegal.com.pl/2908-large_default/4119.jpg
+1252,Make-up/Make-up accessories,b'Cosmetic sharpener',Art. nr 4104,2.99,http://donegal.com.pl/2370-large_default/temperowka-do-kredek-olowkow.jpg
+1248,Make-up/Make-up accessories,b'Cosmetic sharpener',Art. nr 1036,2.99,http://donegal.com.pl/2371-large_default/temperowka-do-kredek-olowkow.jpg
+3232,Make-up/Make-up accessories,b'Cosmetic sharpener',Art. nr 4113,4.69,http://donegal.com.pl/1843-large_default/temperowka-kosmetyczna-forever-beauty.jpg
+3029,Make-up/Make-up accessories,b'Cosmetic sharpener',Art. nr 4109,1.39,http://donegal.com.pl/1250-large_default/temperowka-do-kredek-olowkow-beauty-care.jpg
+3644,Make-up/Make-up accessories,b'Eyebrow stancil 3 pieces',Art. nr 4465,5.49,http://donegal.com.pl/1803-large_default/szablony-do-brwi-3szt.jpg
+3076,Make-up/Make-up accessories,b'Make-up accessories set',Art. nr 4031,12.79,http://donegal.com.pl/2083-large_default/zestaw-do-makijazu-nova.jpg
+3077,Make-up/Make-up accessories,b'Make-up accessories set',Art. nr 4032,23.39,http://donegal.com.pl/674-large_default/zestaw-do-makijazu-venus.jpg
+3079,Make-up/Make-up accessories,b"MAKE'UP SET",Art. nr 4038,47.49,http://donegal.com.pl/2139-large_default/zestaw-do-makijazu-blooming-beauty.jpg
+1249,Make-up/Make-up accessories,b'Eyelash curler',Art. nr 1038,7.79,http://donegal.com.pl/643-large_default/zalotka-do-rzes.jpg
+1355,Make-up/Make-up accessories,b'Mask applicator brush',Art. nr 9631,11.59,http://donegal.com.pl/1632-large_default/pedzel-do-nakladania-maseczki.jpg
+
+3684,Make-up/Cosmetic mirror,b'One - sided mirror FUNNY LOOK',Art. nr 4535,21.99,http://donegal.com.pl/193-large_default/lusterko-kosmetyczne-funny-look.jpg
+3685,Make-up/Cosmetic mirror,b'One - sided mirror FUNNY LOOK',Art. nr 4536,21.99,http://donegal.com.pl/898-large_default/lusterko-kosmetyczne-jednostronne-funny-look.jpg
+3683,Make-up/Cosmetic mirror,b'Double - sided mirror x 10 FABLE LOOK',Art. nr 4534,29.19,http://donegal.com.pl/2002-large_default/lusterko-kosmetyczne-dwustronne-fable-look.jpg
+3792,Make-up/Cosmetic mirror,b'Double - sided mirror  x 5',Art. nr 4537,33.69,http://donegal.com.pl/2802-large_default/4537.jpg
+3793,Make-up/Cosmetic mirror,b'Double - sided mirror x 10',Art. nr 4538,38.89,http://donegal.com.pl/2803-large_default/4538.jpg
+3794,Make-up/Cosmetic mirror,b'Double - sided mirror x 5',Art. nr 4539,50.29,http://donegal.com.pl/2804-large_default/4539.jpg
+3795,Make-up/Cosmetic mirror,b'Double - sided mirror x 10',Art. nr 4540,60.29,http://donegal.com.pl/2805-large_default/4540.jpg
+1231,Make-up/Cosmetic mirror,b'Double - sided mirror x5',Art. nr 9275,29.19,http://donegal.com.pl/2801-large_default/lusterko-kosmetyczne-see-through-niebieskie-ze-stopka.jpg
+1232,Make-up/Cosmetic mirror,b'Double - sided mirror',Art. nr 9276,26.39,http://donegal.com.pl/2615-large_default/lusterko-kosmetyczne-see-through-biale-ze-stopka.jpg
+3811,Make-up/Cosmetic mirror,b'Double - sided pocket mirror HOLO',Art. nr 4541,23.39,http://donegal.com.pl/2882-large_default/4541.jpg
+3034,Make-up/Cosmetic mirror,b'One - sided pocket mirror',Art. nr 4523,4.59,http://donegal.com.pl/641-large_default/lusterko-kompaktowe-okragle-mar-plata.jpg
+3305,Make-up/Cosmetic mirror,b'One - sided pocket mirror NATURE GIFT',Art. nr 4531,5.89,http://donegal.com.pl/959-large_default/lusterko-jednostronne-nature-gift.jpg
+1240,Make-up/Cosmetic mirror,b'Double - sided mirror',Art. nr 9509,22.19,http://donegal.com.pl/2616-large_default/lusterko-kosmetyczne-okragle-duze.jpg
+1234,Make-up/Cosmetic mirror,b'Double - sided mirror',Art. nr 9502,16.39,http://donegal.com.pl/2617-large_default/lusterko-kosmetyczne-okragle.jpg
+1237,Make-up/Cosmetic mirror,b'Double - sided mirror',Art. nr 9505,13.49,http://donegal.com.pl/2618-large_default/lusterko-kosmetyczne-owal.jpg
+1235,Make-up/Cosmetic mirror,b'COSMETIC MIRROR',Art. nr 9503,17.69,http://donegal.com.pl/2620-large_default/lusterko-kosmetyczne-owalne.jpg
+1236,Make-up/Cosmetic mirror,b'Double - sided mirror',Art. nr 9504,12.59,http://donegal.com.pl/2621-large_default/lusterko-kosmetyczne-okragle.jpg
+1233,Make-up/Cosmetic mirror,b'One - sided mirror',Art. nr 9501,7.89,http://donegal.com.pl/2622-large_default/lusterko-kosmetyczne-colour-burst-.jpg
+1228,Make-up/Cosmetic mirror,b'One - sided mirror',Art. nr 9254,9.99,http://donegal.com.pl/2623-large_default/lusterko-kosmetyczne-mirra-flex.jpg
+1230,Make-up/Cosmetic mirror,b'One - sided mirror',Art. nr 9256,18.59,http://donegal.com.pl/2624-large_default/lusterko-kosmetyczne-prost.jpg
+1202,Make-up/Cosmetic mirror,b'Double - sided pocket mirror',Art. nr 4502,7.39,http://donegal.com.pl/2625-large_default/lusterko-wild-thing-dwustronne.jpg
+
+2995,Hair brushes/Hair brushes,b'Detangler hair brush TT - HAIR',Art. nr 1218,16.49,http://donegal.com.pl/1212-large_default/szczotka-do-wlosow-tt-hair.jpg
+3221,Hair brushes/Hair brushes,b'Detangler hair brush TT - HAIR',Art. nr 1233,24.89,http://donegal.com.pl/1337-large_default/szczotka-do-wlosow-tt-hair-chrome-look.jpg
+3162,Hair brushes/Hair brushes,b'Detangler hair brush TT - HAIR',Art. nr 1231,9.29,http://donegal.com.pl/2257-large_default/szczotka-do-wlosow-tt-hair.jpg
+3679,Hair brushes/Hair brushes,b'Detangler hair brush TT - HAIR',Art. nr 1245,14.89,http://donegal.com.pl/2268-large_default/szczotka-do-wlosow-zamykana.jpg
+3745,Hair brushes/Hair brushes,b'Vented hair brush Natural & synthetic bristles',Art. nr 1260,17.89,http://donegal.com.pl/2224-large_default/1260.jpg
+3746,Hair brushes/Hair brushes,b'Teasing hair brush',Art. nr 1261,13.69,http://donegal.com.pl/2225-large_default/1261.jpg
+3227,Hair brushes/Hair brushes,b'Hair brush FUN BRUSH',Art. nr 1242,11.99,http://donegal.com.pl/871-large_default/szczotka-do-wlosow-fun-brush.jpg
+892,Hair brushes/Hair brushes,b'Hair brush OOZY BRUSH',Art. nr 1155,10.59,http://donegal.com.pl/1942-large_default/szczotka-do-wlosow.jpg
+3158,Hair brushes/Hair brushes,b'Hair brush OOZY BRUSH',Art. nr 1240,13.49,http://donegal.com.pl/1119-large_default/szczotka-do-wlosow-oozy-brush.jpg
+3597,Hair brushes/Hair brushes,b'Hair brush Natural bristle',Art. nr 1248,12.59,http://donegal.com.pl/137-large_default/szczotka-do-wlosow-z-naturalnym-wlosiem.jpg
+3593,Hair brushes/Hair brushes,b'Hair brush',Art. nr 1247,7.99,http://donegal.com.pl/976-large_default/szczotka-do-wlosow.jpg
+2134,Hair brushes/Hair brushes,b'Hair brush PREMIUM PLUS',Art. nr 1151,9.89,http://donegal.com.pl/1813-large_default/szczotka-z-poduszka.jpg
+2130,Hair brushes/Hair brushes,b'Hair brush Natural bristle',Art. nr 1140,22.49,http://donegal.com.pl/2398-large_default/szczotka-z-naturalnym-wlosiem.jpg
+2129,Hair brushes/Hair brushes,b'Hair brush',Art. nr 1139,12.99,http://donegal.com.pl/2397-large_default/szczotka-z-poduszka-igly.jpg
+2131,Hair brushes/Hair brushes,b'Hair brush',Art. nr 1141,10.69,http://donegal.com.pl/2396-large_default/szczotka-do-wlosow-z-poduszka-waska-igly.jpg
+2132,Hair brushes/Hair brushes,b'Hair brush',Art. nr 1142,11.19,http://donegal.com.pl/2395-large_default/szczotka-waska-igly.jpg
+2081,Hair brushes/Hair brushes,b'Round hair brush',Art. nr 1143,10.99,http://donegal.com.pl/2394-large_default/szczotko-lokowka.jpg
+3599,Hair brushes/Hair brushes,b'Round hair brush',Art. nr 1250,6.69,http://donegal.com.pl/489-large_default/szczotko-lokowka.jpg
+3068,Hair brushes/Hair brushes,b'Hair brush ORIENTHAIR',Art. nr 1227,8.79,http://donegal.com.pl/1946-large_default/szczotka-do-wlosow-orienthair.jpg
+3067,Hair brushes/Hair brushes,b'Round hair brush ORIENTHAIR',Art. nr 1226,8.49,http://donegal.com.pl/1218-large_default/szczotko-lokowka-do-wlosow-orienthair.jpg
+2138,Hair brushes/Hair brushes,b'Hair brush',Art. nr 9004,7.99,http://donegal.com.pl/425-large_default/szczotka-z-poduszka.jpg
+
+2995,Hair brushes/Brushes,b'Detangler hair brush TT - HAIR',Art. nr 1218,16.49,http://donegal.com.pl/1212-large_default/szczotka-do-wlosow-tt-hair.jpg
+3221,Hair brushes/Brushes,b'Detangler hair brush TT - HAIR',Art. nr 1233,24.89,http://donegal.com.pl/1337-large_default/szczotka-do-wlosow-tt-hair-chrome-look.jpg
+3162,Hair brushes/Brushes,b'Detangler hair brush TT - HAIR',Art. nr 1231,9.29,http://donegal.com.pl/2257-large_default/szczotka-do-wlosow-tt-hair.jpg
+3679,Hair brushes/Brushes,b'Detangler hair brush TT - HAIR',Art. nr 1245,14.89,http://donegal.com.pl/2268-large_default/szczotka-do-wlosow-zamykana.jpg
+3745,Hair brushes/Brushes,b'Vented hair brush Natural & synthetic bristles',Art. nr 1260,17.89,http://donegal.com.pl/2224-large_default/1260.jpg
+3746,Hair brushes/Brushes,b'Teasing hair brush',Art. nr 1261,13.69,http://donegal.com.pl/2225-large_default/1261.jpg
+3227,Hair brushes/Brushes,b'Hair brush FUN BRUSH',Art. nr 1242,11.99,http://donegal.com.pl/871-large_default/szczotka-do-wlosow-fun-brush.jpg
+892,Hair brushes/Brushes,b'Hair brush OOZY BRUSH',Art. nr 1155,10.59,http://donegal.com.pl/1942-large_default/szczotka-do-wlosow.jpg
+3158,Hair brushes/Brushes,b'Hair brush OOZY BRUSH',Art. nr 1240,13.49,http://donegal.com.pl/1119-large_default/szczotka-do-wlosow-oozy-brush.jpg
+2152,Hair brushes/Brushes,b'Wooden hair brush NATURE GIFT',Art. nr 9037,11.69,http://donegal.com.pl/2400-large_default/szczotka-drewniana-do-masazu-igly-drewniane.jpg
+2150,Hair brushes/Brushes,b'Wooden hair brush NATURE GIFT',Art. nr 9026,11.69,http://donegal.com.pl/2401-large_default/szczotka-drwniana-do-masazu-igly-drewniane.jpg
+2148,Hair brushes/Brushes,b'Wooden hair brush NATURE GIFT',Art. nr 9024,9.59,http://donegal.com.pl/2402-large_default/szczotka-drewniana-do-masazu-igly-drewniane.jpg
+2157,Hair brushes/Brushes,b'Wooden hair brush Metal needles NATURE GIFT',Art. nr 9060,11.79,http://donegal.com.pl/2403-large_default/szczotka-drewniana-z-poduszka-igly-metalowe.jpg
+2165,Hair brushes/Brushes,b'Wooden hair brush Natural bristle NATURE GIFT',Art. nr 9715,17.49,http://donegal.com.pl/1984-large_default/szczotka-drewniana-z-poduszka.jpg
+2158,Hair brushes/Brushes,b'Wooden hair brush Metal needles NATURE GIFT',Art. nr 9061,8.99,http://donegal.com.pl/2404-large_default/szczotka-drewniana-z-poduszka-igly-metalowe.jpg
+2134,Hair brushes/Brushes,b'Hair brush PREMIUM PLUS',Art. nr 1151,9.89,http://donegal.com.pl/1813-large_default/szczotka-z-poduszka.jpg
+2130,Hair brushes/Brushes,b'Hair brush Natural bristle',Art. nr 1140,22.49,http://donegal.com.pl/2398-large_default/szczotka-z-naturalnym-wlosiem.jpg
+2129,Hair brushes/Brushes,b'Hair brush',Art. nr 1139,12.99,http://donegal.com.pl/2397-large_default/szczotka-z-poduszka-igly.jpg
+2132,Hair brushes/Brushes,b'Hair brush',Art. nr 1142,11.19,http://donegal.com.pl/2395-large_default/szczotka-waska-igly.jpg
+2131,Hair brushes/Brushes,b'Hair brush',Art. nr 1141,10.69,http://donegal.com.pl/2396-large_default/szczotka-do-wlosow-z-poduszka-waska-igly.jpg
+3592,Hair brushes/Brushes,b'Hair brush',Art. nr 1246,7.99,http://donegal.com.pl/298-large_default/szczotka-do-wlosow.jpg
+
+2106,Hair brushes/Curler brushes,b'Round hair brush',Art. nr 9591,21.49,http://donegal.com.pl/2026-large_default/szczotko-lokowka-aluminium-53-78.jpg
+2093,Hair brushes/Curler brushes,b'Round hair brush',Art. nr 9044,17.49,http://donegal.com.pl/1792-large_default/szczotko-lokowka-aluminium-42-60.jpg
+2094,Hair brushes/Curler brushes,b'Round hair brush',Art. nr 9045,12.99,http://donegal.com.pl/382-large_default/szczotko-lokowka-aluminium-32-50.jpg
+2095,Hair brushes/Curler brushes,b'Round hair brush',Art. nr 9046,11.59,http://donegal.com.pl/1139-large_default/szczotko-lokowka-aluminium-24-38.jpg
+2096,Hair brushes/Curler brushes,b'Round hair brush',Art. nr 9047,10.59,http://donegal.com.pl/1869-large_default/szczotko-lokowka-aluminium-15-23.jpg
+2114,Hair brushes/Curler brushes,b'Round hair brush',Art. nr 9897,11.59,http://donegal.com.pl/2687-large_default/szczotko-lokowka-aluminium-36-48.jpg
+2081,Hair brushes/Curler brushes,b'Round hair brush',Art. nr 1143,10.99,http://donegal.com.pl/2394-large_default/szczotko-lokowka.jpg
+3599,Hair brushes/Curler brushes,b'Round hair brush',Art. nr 1250,6.69,http://donegal.com.pl/489-large_default/szczotko-lokowka.jpg
+2089,Hair brushes/Curler brushes,b'Round hair brush',Art. nr 9017,4.79,http://donegal.com.pl/2689-large_default/szczotko-lokowka-plastikowa-13-38.jpg
+2090,Hair brushes/Curler brushes,b'Round hair brush',Art. nr 9018,4.69,http://donegal.com.pl/2690-large_default/szczotko-lokowka-plastikowa-13-38.jpg
+2091,Hair brushes/Curler brushes,b'Round hair brush',Art. nr 9019,5.99,http://donegal.com.pl/2692-large_default/szczotko-lokowka-plastikowa-13-28.jpg
+2092,Hair brushes/Curler brushes,b'Round hair brush',Art. nr 9020,6.29,http://donegal.com.pl/2691-large_default/szczotko-lokowka-20-34.jpg
+3648,Hair brushes/Curler brushes,b'Round hair brush',Art. nr 1253,17.99,http://donegal.com.pl/1306-large_default/szczotko-lokowka-brazowa-premium-plus.jpg
+3067,Hair brushes/Curler brushes,b'Round hair brush ORIENTHAIR',Art. nr 1226,8.49,http://donegal.com.pl/1218-large_default/szczotko-lokowka-do-wlosow-orienthair.jpg
+2108,Hair brushes/Curler brushes,b'Wooden hair brush Natural bristle',Art. nr 9878,22.79,http://donegal.com.pl/2685-large_default/szczotko-lokowka-drewniana-naturalne-wlosie-20-55.jpg
+3172,Hair brushes/Curler brushes,b'Wooden hair brush Natural bristle',Art. nr 9879,21.79,http://donegal.com.pl/1570-large_default/szczotko-lokowka-drewniana-naturalne-wlosie-28-58-mm.jpg
+2098,Hair brushes/Curler brushes,b'Wooden hair brush Natural bristle',Art. nr 9118,6.99,http://donegal.com.pl/2683-large_default/szczotko-lokowka-drewniana-40-mm.jpg
+2105,Hair brushes/Curler brushes,b'Round hair brush Natural bristle',Art. nr 9590,6.79,http://donegal.com.pl/2684-large_default/szczotko-lokowka-drewniana-27.jpg
+
+3053,Hair/Hair combs,b'Afro hair pick lifting comb',Art. nr 1513,2.19,http://donegal.com.pl/974-large_default/grzebien-afro-154x71cm.jpg
+1069,Hair/Hair combs,b'Hair comb',Art. nr 9093,3.79,http://donegal.com.pl/2524-large_default/grzebien-fryzjerski-donair.jpg
+1070,Hair/Hair combs,b'Hair comb',Art. nr 9094,3.79,http://donegal.com.pl/2523-large_default/grzebien-fryzjerski-donair.jpg
+1071,Hair/Hair combs,b'Hair comb',Art. nr 9095,3.19,http://donegal.com.pl/2522-large_default/grzebien-fryzjerski-donair.jpg
+1072,Hair/Hair combs,b'Hair comb',Art. nr 9096,3.19,http://donegal.com.pl/2521-large_default/grzebien-fryzjerski-donair.jpg
+1074,Hair/Hair combs,b'Hair comb',Art. nr 9228,3.29,http://donegal.com.pl/2520-large_default/grzebien-fryzjerski-donair.jpg
+1064,Hair/Hair combs,b'Hair comb',Art. nr 9087,3.59,http://donegal.com.pl/2531-large_default/grzebien-fryzjerski-donair.jpg
+1065,Hair/Hair combs,b'Hair comb',Art. nr 9088,3.39,http://donegal.com.pl/2530-large_default/grzebien-fryzjerski-donair.jpg
+1062,Hair/Hair combs,b'Hair comb',Art. nr 9085,3.99,http://donegal.com.pl/2533-large_default/grzebien-fryzjerski-donair.jpg
+1063,Hair/Hair combs,b'Hair comb',Art. nr 9086,4.19,http://donegal.com.pl/2532-large_default/grzebien-fryzjerski-donair.jpg
+1067,Hair/Hair combs,b'Hair comb',Art. nr 9090,2.99,http://donegal.com.pl/2528-large_default/grzebien-fryzjerski-donair.jpg
+1066,Hair/Hair combs,b'Hair comb',Art. nr 9089,3.39,http://donegal.com.pl/2529-large_default/grzebien-fryzjerski-donair.jpg
+1068,Hair/Hair combs,b'Hair comb',Art. nr 9091,3.99,http://donegal.com.pl/2526-large_default/grzebien-fryzjerski-donair.jpg
+1076,Hair/Hair combs,b'Hair comb',Art. nr 9305,3.39,http://donegal.com.pl/2527-large_default/grzebien-fryzjerski-donair.jpg
+1075,Hair/Hair combs,b'Hair comb',Art. nr 9304,3.49,http://donegal.com.pl/2525-large_default/grzebien-fryzjerski-donair.jpg
+1077,Hair/Hair combs,b'Hair comb',Art. nr 9306,3.59,http://donegal.com.pl/2534-large_default/grzebien-fryzjerski-donair.jpg
+1083,Hair/Hair combs,b'Hair comb',Art. nr 9801,2.29,http://donegal.com.pl/245-large_default/grzebien-sferyczny-204-cm.jpg
+1084,Hair/Hair combs,b'Hair comb',Art. nr 9803,2.19,http://donegal.com.pl/1004-large_default/grzebien-do-wlosow.jpg
+1078,Hair/Hair combs,b'Hair comb',Art. nr 9406,2.99,http://donegal.com.pl/842-large_default/grzebien-do-wlosow-197-cm.jpg
+1090,Hair/Hair combs,b'Hair comb',Art. nr 9811,3.79,http://donegal.com.pl/1399-large_default/grzebien-floral-216-cm.jpg
+1085,Hair/Hair combs,b'Hair comb',Art. nr 9804,2.59,http://donegal.com.pl/1738-large_default/grzebien-do-wlosow-223-cm.jpg
+
+3127,Hair ornaments/Hair ornaments,b'Hair clip claws 2 pcs',Art. nr FA-5829,3.99,http://donegal.com.pl/2761-large_default/black-hair-claws-pins.jpg
+3128,Hair ornaments/Hair ornaments,b'Hair clip claws 2 pcs',Art. nr FA-5830,4.19,http://donegal.com.pl/2762-large_default/brown-hair-clips.jpg
+3129,Hair ornaments/Hair ornaments,b'Duckbill hair clip',Art. nr FA-5831,3.89,http://donegal.com.pl/2763-large_default/black-duck-hair-clip.jpg
+3130,Hair ornaments/Hair ornaments,b'Duckbill hair clip',Art. nr FA-5832,3.99,http://donegal.com.pl/2764-large_default/duck-hair-clip.jpg
+1655,Hair ornaments/Hair ornaments,b'Black hair band',Art. nr FA-9918,3.89,http://donegal.com.pl/168-large_default/opaska-czarna.jpg
+1660,Hair ornaments/Hair ornaments,b'Black hair band',Art. nr FA-9847,3.19,http://donegal.com.pl/1744-large_default/opaska-cienka-czarna.jpg
+1658,Hair ornaments/Hair ornaments,b'Black hair bands 2 pcs',Art. nr FA-9924,3.89,http://donegal.com.pl/251-large_default/opaska-czarna-2-szt.jpg
+1586,Hair ornaments/Hair ornaments,b'Ponytail holders 12 pcs',Art. nr FA-9904,1.99,http://donegal.com.pl/328-large_default/gumka-mix-12-szt.jpg
+1590,Hair ornaments/Hair ornaments,b'Ponytail holders 12 pcs',Art. nr FA-9921,3.69,http://donegal.com.pl/1167-large_default/gumka-mix-12-szt.jpg
+1592,Hair ornaments/Hair ornaments,b'Ponytail holders 6 pcs',Art. nr FA-9934,4.39,http://donegal.com.pl/491-large_default/gumka-czarna-mix-6-szt.jpg
+1612,Hair ornaments/Hair ornaments,b'Hair clip claw',Art. nr FA-9916,2.59,http://donegal.com.pl/1617-large_default/klamra-czarna.jpg
+1605,Hair ornaments/Hair ornaments,b'Hair clip claw',Art. nr FA-9777,3.49,http://donegal.com.pl/755-large_default/klamra-czarna.jpg
+1606,Hair ornaments/Hair ornaments,b'Hair clip claw',Art. nr FA-9792,2.79,http://donegal.com.pl/1487-large_default/klamra-czarna.jpg
+1611,Hair ornaments/Hair ornaments,b'Hair clip claw',Art. nr FA-9915,3.69,http://donegal.com.pl/886-large_default/klamra-czarna-bursztyn-jasny-bursztyn.jpg
+1604,Hair ornaments/Hair ornaments,b'Hair clip claw',Art. nr FA-9776,3.49,http://donegal.com.pl/2161-large_default/klamra-czarna.jpg
+1607,Hair ornaments/Hair ornaments,b'Hair clip claw',Art. nr FA-9796,2.59,http://donegal.com.pl/2818-large_default/klamra-czarna.jpg
+1614,Hair ornaments/Hair ornaments,b'Hair clip claws 4 pcs',Art. nr FA-9930,2.89,http://donegal.com.pl/2820-large_default/mala-klamra-4-szt-czarna.jpg
+2260,Hair ornaments/Hair ornaments,b'Metal snap hair clips 2 pcs',Art. nr FA-5268,4.19,http://donegal.com.pl/1553-large_default/spinka-automatyczna-click-clack-yellow-fire-zolta-2-szt.jpg
+2264,Hair ornaments/Hair ornaments,b'Metal snap hair clips 2 pcs',Art. nr FA-5270,4.19,http://donegal.com.pl/1849-large_default/spinka-automatyczna-click-clack-orange-fire-pomaranczowa-2-szt.jpg
+1747,Hair ornaments/Hair ornaments,b'Metal snap hair clips 3 pcs',Art. nr FA-9862,2.99,http://donegal.com.pl/1606-large_default/spinka-automatyczna-click-clack-czarna-4-szt.jpg
+1545,Hair ornaments/Hair ornaments,b'Ponytail holder',Art. nr FA-5052,4.99,http://donegal.com.pl/201-large_default/gumka-z-koralikami-rozowa.jpg
+
+1532,Hair ornaments/Hair Stones,b'Swarovski zirconia Gold',Art. nr 5030/C,11.39,http://donegal.com.pl/347-large_default/cyrkonie-na-wlosy-zlote.jpg
+1530,Hair ornaments/Hair Stones,b'Swarovski zirconia Pink',Art. nr 5030/A,11.39,http://donegal.com.pl/1026-large_default/cyrkonie-na-wlosy-rozowe.jpg
+1531,Hair ornaments/Hair Stones,b'Swarovski zirconia Silver',Art. nr 5030/B,11.39,http://donegal.com.pl/1760-large_default/cyrkonie-na-wlosy-srebrne.jpg
+
+3104,Hair ornaments/Scrunchies,b'Scrunchies 2 pcs',Art. nr FA-5519,4.29,http://donegal.com.pl/581-large_default/gumka-do-wlosow-summer-105cm-2szt.jpg
+3111,Hair ornaments/Scrunchies,b'Scrunchies 2 pcs',Art. nr FA-5526,4.79,http://donegal.com.pl/272-large_default/frotka-woolly-2szt.jpg
+2474,Hair ornaments/Scrunchies,b'Scrunchy 12 pcs',Art. nr FA-9570,2.99,http://donegal.com.pl/107-large_default/frotka-do-wlosow-czarna-mala.jpg
+1536,Hair ornaments/Scrunchies,b'Scrunchies 12 pcs',Art. nr FA-9581,4.19,http://donegal.com.pl/1185-large_default/frotka-mix-12-szt.jpg
+2988,Hair ornaments/Scrunchies,b'Scrunchies 6 pcs',Art. nr FA-5828,4.79,http://donegal.com.pl/452-large_default/frotka-do-wlosow-rene-6szt.jpg
+1535,Hair ornaments/Scrunchies,b'Scrunchies 12 pcs',Art. nr FA-9579,4.59,http://donegal.com.pl/430-large_default/frotka-mix-12-szt.jpg
+2473,Hair ornaments/Scrunchies,b'Scrunchies 12 pcs',Art. nr FA-9569,4.59,http://donegal.com.pl/864-large_default/frotka-do-wlosow-czarna-duza.jpg
+1537,Hair ornaments/Scrunchies,b'Scrunchies 4 pcs',Art. nr FA-9935,1.79,http://donegal.com.pl/1914-large_default/frotka-mix-4-szt.jpg
+2987,Hair ornaments/Scrunchies,b'Scrunchies 10 pcs',Art. nr FA-5827,1.89,http://donegal.com.pl/1859-large_default/frotka-do-wlosow-selbi-10-szt.jpg
+
+3124,Hair ornaments/Ponytail holders,b'Ponytail holders LOLLIPOP 20 pcs',Art. nr FA-5539,9.49,http://donegal.com.pl/592-large_default/gumka-lollipop-20szt.jpg
+3122,Hair ornaments/Ponytail holders,b'Ponytail holders SWEET FROG 20 pcs',Art. nr FA-5537,8.79,http://donegal.com.pl/1269-large_default/gumka-do-wlosow-sweet-frog-20szt.jpg
+3123,Hair ornaments/Ponytail holders,b'Ponytail holders SWEET DUCK 20 pcs',Art. nr FA-5538,8.79,http://donegal.com.pl/1999-large_default/gumka-do-wlosow-sweet-duck-20szt.jpg
+3643,Hair ornaments/Ponytail holders,b'Ponytail holders TELE WIRE 3 pcs',Art. nr FA-5587,6.49,http://donegal.com.pl/1880-large_default/gumka-do-wlosow-tele-wire-3szt.jpg
+1545,Hair ornaments/Ponytail holders,b'Ponytail holder',Art. nr FA-5052,4.99,http://donegal.com.pl/201-large_default/gumka-z-koralikami-rozowa.jpg
+1589,Hair ornaments/Ponytail holders,b'Ponytail holders 3 pcs',Art. nr FA-9920,2.79,http://donegal.com.pl/410-large_default/gumka-mix-3-szt.jpg
+3174,Hair ornaments/Ponytail holders,b'Ponytail holders 4 pcs',Art. nr FA-5213,3.19,http://donegal.com.pl/749-large_default/gumka-falowana-czarna-6szt.jpg
+3173,Hair ornaments/Ponytail holders,b'Ponytail holders 4 pcs',Art. nr FA-5136,3.29,http://donegal.com.pl/999-large_default/gumka-opleciona-mix-4szt.jpg
+3118,Hair ornaments/Ponytail holders,b'Ponytail holders 3 pcs',Art. nr FA-5533,7.19,http://donegal.com.pl/435-large_default/gumka-do-wlosow-neon-rainbow-3szt.jpg
+3108,Hair ornaments/Ponytail holders,b'Ponytail holders 10 pcs',Art. nr FA-5523,12.29,http://donegal.com.pl/190-large_default/gumka-do-wlosow-glossy.jpg
+3102,Hair ornaments/Ponytail holders,b'Ponytail holders 6 pcs',Art. nr FA-5517,9.29,http://donegal.com.pl/1259-large_default/gumka-do-wlosow-digar-45cm-6szt.jpg
+3101,Hair ornaments/Ponytail holders,b'Ponytail holders 6 pcs',Art. nr FA-5516,10.89,http://donegal.com.pl/504-large_default/gumka-do-wlosow-trio-45cm-6szt.jpg
+3103,Hair ornaments/Ponytail holders,b'Ponytail holders 6 pcs',Art. nr FA-5518,10.89,http://donegal.com.pl/1988-large_default/gumka-do-wlosow-tallic-45cm-6szt.jpg
+3110,Hair ornaments/Ponytail holders,b'Ponytail holders 4 pcs',Art. nr FA-5525,12.29,http://donegal.com.pl/1684-large_default/gumka-do-wlosow-colorful-set.jpg
+3109,Hair ornaments/Ponytail holders,b'Ponytail holders 4 pcs',Art. nr FA-5524,11.49,http://donegal.com.pl/950-large_default/gumka-do-wlosow-little-dots.jpg
+1581,Hair ornaments/Ponytail holders,b'Ponytail holders 24 pcs',Art. nr FA-9582,2.49,http://donegal.com.pl/926-large_default/gumka-mix-24-szt.jpg
+1584,Hair ornaments/Ponytail holders,b'Ponytail holders 6 pcs',Art. nr FA-9863,2.19,http://donegal.com.pl/1008-large_default/gumka-6szt-czarna.jpg
+1583,Hair ornaments/Ponytail holders,b'Ponytail holders 6 pcs',Art. nr FA-9873,2.19,http://donegal.com.pl/249-large_default/gumka-6szt-mix-kolor.jpg
+1585,Hair ornaments/Ponytail holders,b'Ponytail holders 12 pcs',Art. nr FA-9874,2.49,http://donegal.com.pl/1742-large_default/gumka-mix-12-szt.jpg
+1586,Hair ornaments/Ponytail holders,b'Ponytail holders 12 pcs',Art. nr FA-9904,1.99,http://donegal.com.pl/328-large_default/gumka-mix-12-szt.jpg
+1587,Hair ornaments/Ponytail holders,b'PONYTAIL HOLDERS',Art. nr FA-9908,2.39,http://donegal.com.pl/1088-large_default/gumka-mix-6-szt.jpg
+
+1607,Hair ornaments/Hair clips,b'Hair clip claw',Art. nr FA-9796,2.59,http://donegal.com.pl/2818-large_default/klamra-czarna.jpg
+2919,Hair ornaments/Hair clips,b'Hair clip claw',Art. nr FA-5803,2.49,http://donegal.com.pl/2817-large_default/klamra-bursztyn.jpg
+3127,Hair ornaments/Hair clips,b'Hair clip claws 2 pcs',Art. nr FA-5829,3.99,http://donegal.com.pl/2761-large_default/black-hair-claws-pins.jpg
+3128,Hair ornaments/Hair clips,b'Hair clip claws 2 pcs',Art. nr FA-5830,4.19,http://donegal.com.pl/2762-large_default/brown-hair-clips.jpg
+1614,Hair ornaments/Hair clips,b'Hair clip claws 4 pcs',Art. nr FA-9930,2.89,http://donegal.com.pl/2820-large_default/mala-klamra-4-szt-czarna.jpg
+2918,Hair ornaments/Hair clips,b'Hair clip claws 4 pcs',Art. nr FA-5819,2.89,http://donegal.com.pl/2819-large_default/klamra-mini-bursztyn-4-szt.jpg
+1611,Hair ornaments/Hair clips,b'Hair clip claw',Art. nr FA-9915,3.69,http://donegal.com.pl/886-large_default/klamra-czarna-bursztyn-jasny-bursztyn.jpg
+1606,Hair ornaments/Hair clips,b'Hair clip claw',Art. nr FA-9792,2.79,http://donegal.com.pl/1487-large_default/klamra-czarna.jpg
+1605,Hair ornaments/Hair clips,b'Hair clip claw',Art. nr FA-9777,3.49,http://donegal.com.pl/755-large_default/klamra-czarna.jpg
+1612,Hair ornaments/Hair clips,b'Hair clip claw',Art. nr FA-9916,2.59,http://donegal.com.pl/1617-large_default/klamra-czarna.jpg
+1604,Hair ornaments/Hair clips,b'Hair clip claw',Art. nr FA-9776,3.49,http://donegal.com.pl/2161-large_default/klamra-czarna.jpg
+2920,Hair ornaments/Hair clips,b'Hair clip claw',Art. nr FA-5805,1.99,http://donegal.com.pl/578-large_default/klamra-bursztyn.jpg
+2975,Hair ornaments/Hair clips,b'Hair clip claw',Art. nr FA-5813,4.89,http://donegal.com.pl/208-large_default/klamra-bursztyn.jpg
+2933,Hair ornaments/Hair clips,b'Hair clip claw',Art. nr FA-5802,2.99,http://donegal.com.pl/1787-large_default/klamra-bursztyn.jpg
+2934,Hair ornaments/Hair clips,b'Hair clip claw',Art. nr FA-5801,3.49,http://donegal.com.pl/1054-large_default/klamra-bursztyn.jpg
+2965,Hair ornaments/Hair clips,b'Hair clip claw',Art. nr FA-5800,3.49,http://donegal.com.pl/1707-large_default/klamra-bursztyn.jpg
+2936,Hair ornaments/Hair clips,b'Hair clip claw',Art. nr FA-5814,3.19,http://donegal.com.pl/2024-large_default/klamra-bursztynowa.jpg
+2967,Hair ornaments/Hair clips,b'Hair clip claw',Art. nr FA-5804,1.89,http://donegal.com.pl/580-large_default/klamra-bursztyn.jpg
+1608,Hair ornaments/Hair clips,b'Hair clip claw',Art. nr FA-9800,1.89,http://donegal.com.pl/815-large_default/klamra-czarna-bursztyn-jasny-bursztyn.jpg
+1610,Hair ornaments/Hair clips,b'Hair barrette',Art. nr FA-9905,3.59,http://donegal.com.pl/128-large_default/klamra-czarna-bursztyn.jpg
+2421,Hair ornaments/Hair clips,b'Hair clip claws 8 pcs',Art. nr FA-9917,3.99,http://donegal.com.pl/123-large_default/klamra-mini-8-szt.jpg
+
+1655,Hair ornaments/Hair bands,b'Black hair band',Art. nr FA-9918,3.89,http://donegal.com.pl/168-large_default/opaska-czarna.jpg
+1661,Hair ornaments/Hair bands,b'Black hair band',Art. nr FA-9927,3.69,http://donegal.com.pl/330-large_default/opaska-czarna.jpg
+1660,Hair ornaments/Hair bands,b'Black hair band',Art. nr FA-9847,3.19,http://donegal.com.pl/1744-large_default/opaska-cienka-czarna.jpg
+1658,Hair ornaments/Hair bands,b'Black hair bands 2 pcs',Art. nr FA-9924,3.89,http://donegal.com.pl/251-large_default/opaska-czarna-2-szt.jpg
+1656,Hair ornaments/Hair bands,b'Black hair band',Art. nr FA-9919,4.59,http://donegal.com.pl/928-large_default/opaska-czarna.jpg
+1616,Hair ornaments/Hair bands,b'Silver hair band',Art. nr FA-5110,7.99,http://donegal.com.pl/1700-large_default/opaska-zloto-srebro.jpg
+1659,Hair ornaments/Hair bands,b'Hair band',Art. nr FA-9926,3.19,http://donegal.com.pl/1009-large_default/opaska-cienka-bursztyn.jpg
+2917,Hair ornaments/Hair bands,b'Hair band',Art. nr FA-5818,3.69,http://donegal.com.pl/893-large_default/opaska-bursztyn-ii.jpg
+2223,Hair ornaments/Hair bands,b'Hair band',Art. nr FA-5106,5.19,http://donegal.com.pl/756-large_default/opaska-do-wlz-kokardka-czerwona.jpg
+2278,Hair ornaments/Hair bands,b'Hair band',Art. nr FA-5278,5.19,http://donegal.com.pl/1412-large_default/opaska-czerwona.jpg
+2275,Hair ornaments/Hair bands,b'Hair band',Art. nr FA-5276,5.19,http://donegal.com.pl/603-large_default/opaska-do-wlosow-zileona.jpg
+2279,Hair ornaments/Hair bands,b'Hair band',Art. nr FA-5279,5.19,http://donegal.com.pl/1335-large_default/opaska-granatowa.jpg
+2239,Hair ornaments/Hair bands,b'FABRIC HAIR BAND',Art. nr FA-5226,6.89,http://donegal.com.pl/1053-large_default/opaska-materialowa-do-wlosow-brazowa.jpg
+2237,Hair ornaments/Hair bands,b'material hair band',Art. nr FA-5225,6.89,http://donegal.com.pl/564-large_default/opaska-materialowa-do-wlosow-czarna.jpg
+2401,Hair ornaments/Hair bands,b'Hair band',Art. nr FA-5332,4.29,http://donegal.com.pl/1076-large_default/opaska-cienka-z-cyrkoniami-zielona.jpg
+1615,Hair ornaments/Hair bands,b'Hair band',Art. nr FA-5108,3.79,http://donegal.com.pl/966-large_default/opaska-cienka-z-owocami.jpg
+2883,Hair ornaments/Hair bands,b'Hair band',Art. nr FA-5495,4.69,http://donegal.com.pl/786-large_default/opaska-do-wlosow-viva-18cm-x-45cm-2-szt.jpg
+
+3129,Hair ornaments/Hair pins,b'Duckbill hair clip',Art. nr FA-5831,3.89,http://donegal.com.pl/2763-large_default/black-duck-hair-clip.jpg
+3130,Hair ornaments/Hair pins,b'Duckbill hair clip',Art. nr FA-5832,3.99,http://donegal.com.pl/2764-large_default/duck-hair-clip.jpg
+2935,Hair ornaments/Hair pins,b'Metal snap hair clips 4 pcs',Art. nr FA-5810,2.99,http://donegal.com.pl/1294-large_default/spinka-automatyczna-click-clack-burszytnowa-4-szt.jpg
+1747,Hair ornaments/Hair pins,b'Metal snap hair clips 3 pcs',Art. nr FA-9862,2.99,http://donegal.com.pl/1606-large_default/spinka-automatyczna-click-clack-czarna-4-szt.jpg
+1748,Hair ornaments/Hair pins,b'Metal snap hair clips 4 pcs',Art. nr FA-9864,3.39,http://donegal.com.pl/194-large_default/spinka-automatyczna-click-clack-czarna-bursztynowa-4-szt.jpg
+2260,Hair ornaments/Hair pins,b'Metal snap hair clips 2 pcs',Art. nr FA-5268,4.19,http://donegal.com.pl/1553-large_default/spinka-automatyczna-click-clack-yellow-fire-zolta-2-szt.jpg
+2264,Hair ornaments/Hair pins,b'Metal snap hair clips 2 pcs',Art. nr FA-5270,4.19,http://donegal.com.pl/1849-large_default/spinka-automatyczna-click-clack-orange-fire-pomaranczowa-2-szt.jpg
+3195,Hair ornaments/Hair pins,b'Metal snap hair clips 6 pcs',Art. nr FA-5561,5.19,http://donegal.com.pl/442-large_default/spinka-do-wlosow-pin-up-candy-5cm-4szt.jpg
+2889,Hair ornaments/Hair pins,b'Metal snap hair clips 6 pcs',Art. nr FA-5501,3.89,http://donegal.com.pl/929-large_default/spinki-do-wlosow-45cm-6szt.jpg
+2888,Hair ornaments/Hair pins,b'Metal snap hair clips 6 pcs',Art. nr FA-5500,3.89,http://donegal.com.pl/169-large_default/spinki-do-wlosow-45cm-6szt.jpg
+3182,Hair ornaments/Hair pins,b'Metal snap hair clips 6 pcs',Art. nr FA-5549,4.99,http://donegal.com.pl/482-large_default/spinka-do-wlosow-ombre-4cm-6szt.jpg
+3198,Hair ornaments/Hair pins,b'Bow hair clips 2 pcs',Art. nr FA-5564,6.19,http://donegal.com.pl/1391-large_default/spinka-do-wlosow-kokarda-2szt.jpg
+3217,Hair ornaments/Hair pins,b'Bow hair clips 2 pcs',Art. nr FA-5583,6.19,http://donegal.com.pl/325-large_default/spinka-do-wlosow-kokarda-2szt.jpg
+3218,Hair ornaments/Hair pins,b'Bow hair clips 3 pcs',Art. nr FA-5584,8.09,http://donegal.com.pl/1085-large_default/spinka-do-wlosow-kokarda-3szt.jpg
+3220,Hair ornaments/Hair pins,b'Bow hair clips 3 pcs',Art. nr FA-5586,11.69,http://donegal.com.pl/407-large_default/spinka-do-wlosow-kokarda-3szt.jpg
+2914,Hair ornaments/Hair pins,b'Duckbill hair clip',Art. nr FA-5807,3.19,http://donegal.com.pl/59-large_default/spinka-bursztyn.jpg
+1744,Hair ornaments/Hair pins,b'Duckbill hair clip',Art. nr FA-9808,3.19,http://donegal.com.pl/1538-large_default/spinka-tukan-czarna.jpg
+1736,Hair ornaments/Hair pins,b'Duckbill hair clip',Art. nr FA-5236,3.19,http://donegal.com.pl/2094-large_default/spinka-tukan-glitter-and-hearts.jpg
+1745,Hair ornaments/Hair pins,b'Automatic hair clip barrette',Art. nr FA-9852,3.19,http://donegal.com.pl/116-large_default/spinka-automatyczna-simple-czarna.jpg
+2968,Hair ornaments/Hair pins,b'Automatic hair clip barrette',Art. nr FA-5806,3.59,http://donegal.com.pl/1987-large_default/spinka-bursztyn.jpg
+2379,Hair ornaments/Hair pins,b'Automatic hair clip barrette',Art. nr FA-5367,7.19,http://donegal.com.pl/651-large_default/spinka-automatyczna-simple-turkusowa-w-cetki.jpg
+
+3195,Hair ornaments/Hair sets,b'Metal snap hair clips 6 pcs',Art. nr FA-5561,5.19,http://donegal.com.pl/442-large_default/spinka-do-wlosow-pin-up-candy-5cm-4szt.jpg
+3182,Hair ornaments/Hair sets,b'Metal snap hair clips 6 pcs',Art. nr FA-5549,4.99,http://donegal.com.pl/482-large_default/spinka-do-wlosow-ombre-4cm-6szt.jpg
+2889,Hair ornaments/Hair sets,b'Metal snap hair clips 6 pcs',Art. nr FA-5501,3.89,http://donegal.com.pl/929-large_default/spinki-do-wlosow-45cm-6szt.jpg
+2888,Hair ornaments/Hair sets,b'Metal snap hair clips 6 pcs',Art. nr FA-5500,3.89,http://donegal.com.pl/169-large_default/spinki-do-wlosow-45cm-6szt.jpg
+3198,Hair ornaments/Hair sets,b'Bow hair clips 2 pcs',Art. nr FA-5564,6.19,http://donegal.com.pl/1391-large_default/spinka-do-wlosow-kokarda-2szt.jpg
+3220,Hair ornaments/Hair sets,b'Bow hair clips 3 pcs',Art. nr FA-5586,11.69,http://donegal.com.pl/407-large_default/spinka-do-wlosow-kokarda-3szt.jpg
+3217,Hair ornaments/Hair sets,b'Bow hair clips 2 pcs',Art. nr FA-5583,6.19,http://donegal.com.pl/325-large_default/spinka-do-wlosow-kokarda-2szt.jpg
+3218,Hair ornaments/Hair sets,b'Bow hair clips 3 pcs',Art. nr FA-5584,8.09,http://donegal.com.pl/1085-large_default/spinka-do-wlosow-kokarda-3szt.jpg
+3115,Hair ornaments/Hair sets,b'Hair accessories set',Art. nr FA-5530,7.29,http://donegal.com.pl/352-large_default/zestaw-ozdob-do-wlosow-glam-11szt.jpg
+3248,Hair ornaments/Hair sets,b'Hair accessories set',Art. nr FA-5443,5.69,http://donegal.com.pl/713-large_default/zestaw-gumek-do-wlosow-twistband-.jpg
+3113,Hair ornaments/Hair sets,b'Hair accessories set',Art. nr FA-5528,10.99,http://donegal.com.pl/1031-large_default/zestaw-ozdob-do-wlosow-beauty-hair-20szt.jpg
+3121,Hair ornaments/Hair sets,b'Hair accessories set',Art. nr FA-5536,4.49,http://donegal.com.pl/515-large_default/zestaw-ozdob-darling-ii-7szt.jpg
+3120,Hair ornaments/Hair sets,b'Hair accessories set',Art. nr FA-5535,4.49,http://donegal.com.pl/1919-large_default/zestaw-ozdob-do-wlosow-darling-7szt.jpg
+2868,Hair ornaments/Hair sets,b'Hair accessories set',Art. nr FA-5481,12.29,http://donegal.com.pl/1211-large_default/zestaw-ozdob-do-wlosow-25-szt.jpg
+2866,Hair ornaments/Hair sets,b'Hair accessories set',Art. nr FA-5479,13.39,http://donegal.com.pl/1936-large_default/zestaw-ozdob-do-wlosow-11-szt.jpg
+2865,Hair ornaments/Hair sets,b'Hair accessories set',Art. nr FA-5478,12.79,http://donegal.com.pl/1207-large_default/zestaw-ozdob-do-wlosow-43szt-1x-opaska4x-spinka4x-klamra34x-gumka.jpg
+2869,Hair ornaments/Hair sets,b'Hair accessories set',Art. nr FA-5482,11.49,http://donegal.com.pl/1939-large_default/zestaw-ozdob-do-wlosow-27-szt-3x-opaska6x-klamra18x-gumka.jpg
+2863,Hair ornaments/Hair sets,b'Hair accessories set',Art. nr FA-5476,11.99,http://donegal.com.pl/1858-large_default/zestaw-ozdob-do-wlosow-51-szt.jpg
+2864,Hair ornaments/Hair sets,b'Hair accessories set',Art. nr FA-5477,14.19,http://donegal.com.pl/451-large_default/zestaw-ozdob-do-wlosow-34-szt.jpg
+2871,Hair ornaments/Hair sets,b'Hair accessories set',Art. nr FA-5483,7.29,http://donegal.com.pl/1288-large_default/zestaw-ozdob-do-wlosow-23-szt.jpg
+2872,Hair ornaments/Hair sets,b'Hair accessories set',Art. nr FA-5484,7.19,http://donegal.com.pl/534-large_default/zestaw-ozdob-do-wlosow-honey-11-szt.jpg
+
+1671,Hair accessories/Hair accessories,b'BLACK BOBBYPINS',Art. nr 9239,2.99,http://donegal.com.pl/2770-large_default/wsuwki-short-czarne-50szt.jpg
+1662,Hair accessories/Hair accessories,b'BLACK BOBBYPINS',Art. nr 1086,3.59,http://donegal.com.pl/2565-large_default/wsuwki-long-czarne-50-szt.jpg
+1668,Hair accessories/Hair accessories,b'BLACK BOBBYPINS',Art. nr 5094,3.99,http://donegal.com.pl/2766-large_default/kokowka-czarna-5cm-50szt.jpg
+1670,Hair accessories/Hair accessories,b'BLACK BOBBYPINS',Art. nr 5096,4.29,http://donegal.com.pl/2768-large_default/kokowka-czarna-7cm-50szt.jpg
+1669,Hair accessories/Hair accessories,b'BLACK BOBBYPINS',Art. nr 5095,4.39,http://donegal.com.pl/2767-large_default/kokowka-czarna-6cm-50szt.jpg
+3177,Hair accessories/Hair accessories,b'BEIGE BOBBYPINS',Art. nr 5092,6.79,http://donegal.com.pl/1080-large_default/wsuwka-5cm-hq-bezowa-24szt.jpg
+3171,Hair accessories/Hair accessories,b'METAL DUCKBILL HAIR CLIP',Art. nr 5003,14.89,http://donegal.com.pl/1198-large_default/klips-metalowy-55cm.jpg
+2632,Hair accessories/Hair accessories,b'HAIR CUTTER COMB',Art. nr 1512,6.29,http://donegal.com.pl/2771-large_default/grzebien-degazowka-do-cieniowania-wlosow-trimmee-.jpg
+974,Hair accessories/Hair accessories,b'TEXTURIZING SCISSORS',Art. nr 5301,23.99,http://donegal.com.pl/2561-large_default/nozyczki-degazowki-jednostronn.jpg
+973,Hair accessories/Hair accessories,b'TEXTURIZING SCISSORS',Art. nr 5300,23.99,http://donegal.com.pl/2563-large_default/nozyczki-degazowki-dwustronne.jpg
+976,Hair accessories/Hair accessories,b'PROFESSIONAL HAIRDRESSING SCISSORS',Art. nr 5303,17.79,http://donegal.com.pl/2562-large_default/nozyczki-fryzjerskie-14cm.jpg
+3146,Hair accessories/Hair accessories,b'PROFESSIONAL HAIRDRESSING SCISSORS',Art. nr 5911,136.89,http://donegal.com.pl/2041-large_default/nozyczki-fryzjerskie-salon-hair-ming-55.jpg
+989,Hair accessories/Hair accessories,b'DYE BRUSH',Art. nr 9720,2.19,http://donegal.com.pl/2568-large_default/pedzel-do-nakladania-farby.jpg
+981,Hair accessories/Hair accessories,b'DYE BRUSH',Art. nr 9097,2.99,http://donegal.com.pl/2567-large_default/pedzel-do-nakladania-farby.jpg
+982,Hair accessories/Hair accessories,b'DYE BRUSH WITH COMB',Art. nr 9098,2.19,http://donegal.com.pl/2569-large_default/pedzel-do-farb-z-grzebieniem.jpg
+987,Hair accessories/Hair accessories,b'DYE BRUSH WITH COMB',Art. nr 9302,3.29,http://donegal.com.pl/2570-large_default/pedzel-do-farb-z-grzebieniem.jpg
+3145,Hair accessories/Hair accessories,b'DYE BRUSH MINI',Art. nr 5907,2.49,http://donegal.com.pl/2773-large_default/pedzel-do-nakladania-farby-mini.jpg
+3041,Hair accessories/Hair accessories,b'HAIR DYEING MIXING BOWL',Art. nr 5906,4.99,http://donegal.com.pl/2772-large_default/pojemnik-na-farbe-do-wlosow-13x65x7cm.jpg
+990,Hair accessories/Hair accessories,b'HAIR DYEING SET',Art. nr 9758,7.79,http://donegal.com.pl/2571-large_default/zestaw-do-pasemek.jpg
+984,Hair accessories/Hair accessories,b'SHOWER CAP',Art. nr 9298,3.29,http://donegal.com.pl/2573-large_default/czepek-pod-prysznic.jpg
+3257,Hair accessories/Hair accessories,b'SHOWER CAP',Art. nr 5909,4.96,http://donegal.com.pl/436-large_default/czepek-pod-prysznic-10-szt.jpg
+
+3146,Hair accessories/Hairdresser accessories,b'PROFESSIONAL HAIRDRESSING SCISSORS',Art. nr 5911,136.89,http://donegal.com.pl/2041-large_default/nozyczki-fryzjerskie-salon-hair-ming-55.jpg
+976,Hair accessories/Hairdresser accessories,b'PROFESSIONAL HAIRDRESSING SCISSORS',Art. nr 5303,17.79,http://donegal.com.pl/2562-large_default/nozyczki-fryzjerskie-14cm.jpg
+974,Hair accessories/Hairdresser accessories,b'TEXTURIZING SCISSORS',Art. nr 5301,23.99,http://donegal.com.pl/2561-large_default/nozyczki-degazowki-jednostronn.jpg
+973,Hair accessories/Hairdresser accessories,b'TEXTURIZING SCISSORS',Art. nr 5300,23.99,http://donegal.com.pl/2563-large_default/nozyczki-degazowki-dwustronne.jpg
+2632,Hair accessories/Hairdresser accessories,b'HAIR CUTTER COMB',Art. nr 1512,6.29,http://donegal.com.pl/2771-large_default/grzebien-degazowka-do-cieniowania-wlosow-trimmee-.jpg
+981,Hair accessories/Hairdresser accessories,b'DYE BRUSH',Art. nr 9097,2.99,http://donegal.com.pl/2567-large_default/pedzel-do-nakladania-farby.jpg
+989,Hair accessories/Hairdresser accessories,b'DYE BRUSH',Art. nr 9720,2.19,http://donegal.com.pl/2568-large_default/pedzel-do-nakladania-farby.jpg
+982,Hair accessories/Hairdresser accessories,b'DYE BRUSH WITH COMB',Art. nr 9098,2.19,http://donegal.com.pl/2569-large_default/pedzel-do-farb-z-grzebieniem.jpg
+987,Hair accessories/Hairdresser accessories,b'DYE BRUSH WITH COMB',Art. nr 9302,3.29,http://donegal.com.pl/2570-large_default/pedzel-do-farb-z-grzebieniem.jpg
+3145,Hair accessories/Hairdresser accessories,b'DYE BRUSH MINI',Art. nr 5907,2.49,http://donegal.com.pl/2773-large_default/pedzel-do-nakladania-farby-mini.jpg
+3041,Hair accessories/Hairdresser accessories,b'HAIR DYEING MIXING BOWL',Art. nr 5906,4.99,http://donegal.com.pl/2772-large_default/pojemnik-na-farbe-do-wlosow-13x65x7cm.jpg
+990,Hair accessories/Hairdresser accessories,b'HAIR DYEING SET',Art. nr 9758,7.79,http://donegal.com.pl/2571-large_default/zestaw-do-pasemek.jpg
+986,Hair accessories/Hairdresser accessories,b'DYEING HIHLIGHTING CAP',Art. nr 9301,4.49,http://donegal.com.pl/2572-large_default/czepek-do-pasemek.jpg
+977,Hair accessories/Hairdresser accessories,b'BLACK HAIR NET',Art. nr 5902,3.79,http://donegal.com.pl/1203-large_default/siatka-do-wlosow-gruba-czarna.jpg
+979,Hair accessories/Hairdresser accessories,b'BLACK HAIR NET',Art. nr 5903,3.49,http://donegal.com.pl/1854-large_default/siatka-do-wlosow-drobna-czarna.jpg
+978,Hair accessories/Hairdresser accessories,b'BROWN HAIR NET',Art. nr 5905,3.99,http://donegal.com.pl/447-large_default/siatka-do-wlosow-gruba-braz.jpg
+980,Hair accessories/Hairdresser accessories,b'BROWN HAIR NET',Art. nr 5904,3.79,http://donegal.com.pl/1124-large_default/siatka-do-wlosow-drobna-braz.jpg
+3157,Hair accessories/Hairdresser accessories,b'BLACK HAIR NET',Art. nr 5908,8.79,http://donegal.com.pl/1850-large_default/siatka-do-wlosow-extra-gruba-czarna.jpg
+1668,Hair accessories/Hairdresser accessories,b'BLACK BOBBYPINS',Art. nr 5094,3.99,http://donegal.com.pl/2766-large_default/kokowka-czarna-5cm-50szt.jpg
+1669,Hair accessories/Hairdresser accessories,b'BLACK BOBBYPINS',Art. nr 5095,4.39,http://donegal.com.pl/2767-large_default/kokowka-czarna-6cm-50szt.jpg
+
+1002,Hair accessories/Hair curlers for perm,b'WA\xc5\x81KI DO TRWA\xc5\x81EJ ONDULACJI',Art. nr 9226,9.99,http://donegal.com.pl/2785-large_default/walki-do-trwalej-ondulacji-12-szt.jpg
+1001,Hair accessories/Hair curlers for perm,b'HAIR ROLLERS',Art. nr 9225,9.49,http://donegal.com.pl/2784-large_default/walki-do-trwalej-ondulacji-12-szt.jpg
+1000,Hair accessories/Hair curlers for perm,b'HAIR ROLLERS',Art. nr 9224,8.29,http://donegal.com.pl/2783-large_default/walki-do-trwalej-ondulacji-12-szt.jpg
+999,Hair accessories/Hair curlers for perm,b'HAIR ROLLERS',Art. nr 9223,6.99,http://donegal.com.pl/2782-large_default/walki-do-trwalej-ondulacji-12-szt.jpg
+
+1013,Hair accessories/Hair curlers plastic,b'THERMO HAIR ROLLERS',Art. nr 9455,9.99,http://donegal.com.pl/2786-large_default/walki-termoloki-15mm-10-szt.jpg
+1014,Hair accessories/Hair curlers plastic,b'THERMO HAIR ROLLERS',Art. nr 9456,10.49,http://donegal.com.pl/2787-large_default/walki-termoloki-20mm-10-szt.jpg
+1012,Hair accessories/Hair curlers plastic,b'THERMO HAIR ROLLERS',Art. nr 9398,10.99,http://donegal.com.pl/2790-large_default/walki-termoloki-28mm-10-szt.jpg
+1016,Hair accessories/Hair curlers plastic,b'SPIRAL PLASTIC HAIR ROLLERS',Art. nr 9465,15.39,http://donegal.com.pl/2789-large_default/walki-do-wlosow-spiralne-12-szt.jpg
+1015,Hair accessories/Hair curlers plastic,b'SPIRAL PLASTIC HAIR ROLLERS',Art. nr 9464,15.39,http://donegal.com.pl/2788-large_default/walki-do-wlosow-12-szt.jpg
+1009,Hair accessories/Hair curlers plastic,b'PLASTIC HAIR ROLLERS',Art. nr 9219,4.99,http://donegal.com.pl/2778-large_default/walki-zatrzaskowe-10-snr-12szt.jpg
+1008,Hair accessories/Hair curlers plastic,b'PLASTIC HAIR ROLLERS',Art. nr 9218,4.79,http://donegal.com.pl/2777-large_default/walki-zatrzaskowe-20-snr-12szt.jpg
+1007,Hair accessories/Hair curlers plastic,b'PLASTIC HAIR ROLLERS',Art. nr 9217,5.79,http://donegal.com.pl/2776-large_default/walki-zatrzaskowe-23-snr-10szt.jpg
+1006,Hair accessories/Hair curlers plastic,b'PLASTIC HAIR ROLLERS',Art. nr 9216,4.89,http://donegal.com.pl/2775-large_default/walki-zatrzaskowe-30-snr-8-szt.jpg
+1010,Hair accessories/Hair curlers plastic,b'PLASTIC HAIR ROLLERS',Art. nr 9247,6.99,http://donegal.com.pl/2791-large_default/walki-zatrzaskowe-40-snr-6-szt.jpg
+
+1031,Hair accessories/Hair curlers,b'HAIR ROLLERS SELF GRIP',Art. nr 9200,5.99,http://donegal.com.pl/565-large_default/walki-do-wlosow-13-pbh-12-szt.jpg
+1032,Hair accessories/Hair curlers,b'HAIR ROLLERS SELF GRIP',Art. nr 9201,7.59,http://donegal.com.pl/1971-large_default/walki-do-wlosow-15-pbh-12-szt.jpg
+1021,Hair accessories/Hair curlers,b'HAIR ROLLERS SELF GRIP',Art. nr 9104,6.19,http://donegal.com.pl/1485-large_default/walki-do-wlosow-20-pbh-10-szt.jpg
+1029,Hair accessories/Hair curlers,b'WA\xc5\x81KI DO W\xc5\x81OS\xc3\x93W 25 PBH 8 SZT.',Art. nr 9114,5.99,http://donegal.com.pl/2045-large_default/walki-do-wlosow-25-pbh-8-szt.jpg
+1020,Hair accessories/Hair curlers,b'HAIR ROLLERS SELF GRIP',Art. nr 9103,5.99,http://donegal.com.pl/55-large_default/walki-do-wlosow-28-pbh-8-szt.jpg
+1030,Hair accessories/Hair curlers,b'HAIR ROLLERS SELF GRIP',Art. nr 9116,9.19,http://donegal.com.pl/1314-large_default/walki-do-wlosow-32-pbh-8-szt.jpg
+1019,Hair accessories/Hair curlers,b'HAIR ROLLERS SELF GRIP',Art. nr 9102,5.99,http://donegal.com.pl/813-large_default/walki-do-wlosow-36-pbh-6-szt.jpg
+1018,Hair accessories/Hair curlers,b'HAIR ROLLERS SELF GRIP',Art. nr 9101,6.69,http://donegal.com.pl/1546-large_default/walki-do-wlosow-40-pbh-6-szt.jpg
+1033,Hair accessories/Hair curlers,b'HAIR ROLLERS SELF GRIP',Art. nr 9240,8.99,http://donegal.com.pl/1242-large_default/walki-do-wlosow-44-pbh-6-szt.jpg
+1035,Hair accessories/Hair curlers,b'HAIR ROLLERS SELF GRIP',Art. nr 9593,8.89,http://donegal.com.pl/1893-large_default/walki-do-wlosow-56-pbh-6-szt.jpg
+1036,Hair accessories/Hair curlers,b'HAIR ROLLERS SELF GRIP',Art. nr 9594,8.39,http://donegal.com.pl/1163-large_default/walki-do-wlosow-66-pbh-4-szt.jpg
+1022,Hair accessories/Hair curlers,b'HAIR ROLLERS SELF GRIP',Art. nr 9106,8.99,http://donegal.com.pl/753-large_default/walki-do-wlosow-spiochy-15-mm-12-szt.jpg
+1023,Hair accessories/Hair curlers,b'HAIR ROLLERS SELF GRIP',Art. nr 9107,7.79,http://donegal.com.pl/2159-large_default/walki-do-wlosow-spiochy-20-mm-10-szt.jpg
+1024,Hair accessories/Hair curlers,b'HAIR ROLLERS SELF GRIP',Art. nr 9108,6.99,http://donegal.com.pl/1427-large_default/walki-do-wlosow-spiochy-25-mm-8-szt.jpg
+1025,Hair accessories/Hair curlers,b'HAIR ROLLERS SELF GRI',Art. nr 9109,7.49,http://donegal.com.pl/694-large_default/walki-do-wlosow-spiochy-28-mm-8-szt.jpg
+1026,Hair accessories/Hair curlers,b'HAIR ROLLERS SELF GRIP',Art. nr 9110,8.59,http://donegal.com.pl/2102-large_default/walki-do-wlosow-spiochy-32-mm-8-szt.jpg
+1027,Hair accessories/Hair curlers,b'HAIR ROLLERS SELF GRIP',Art. nr 9111,7.29,http://donegal.com.pl/1370-large_default/walki-do-wlosow-spiochy-36-mm-6-szt.jpg
+1028,Hair accessories/Hair curlers,b'HAIR ROLLERS SELF GRIP',Art. nr 9112,8.39,http://donegal.com.pl/636-large_default/walki-do-wlosow-spiochy-40-mm-6-szt.jpg
+1034,Hair accessories/Hair curlers,b'HAIR ROLLERS SELF GRIP',Art. nr 9274,9.89,http://donegal.com.pl/487-large_default/walki-do-wlosow-spiochy-44-mm-6-szt.jpg
+
+3224,Hair accessories/Foam hair rollers,b'HAIR ROLLERS LOLLY CURVES',Art. nr 5007,25.99,http://donegal.com.pl/2578-large_default/walki-do-wlosow-lolly-curves-9x15cm-9x25cm.jpg
+3225,Hair accessories/Foam hair rollers,b'HAIR ROLLERS RIBBON TWIST',Art. nr 5004,6.79,http://donegal.com.pl/488-large_default/walki-do-wlosow-ribbon-twist-13cm-18cm-6szt.jpg
+3226,Hair accessories/Foam hair rollers,b'HAIR ROLLERS RIBBON TWIST',Art. nr 5005,7.89,http://donegal.com.pl/1243-large_default/walki-do-wlosow-ribbon-twist-18cm-18cm-6szt.jpg
+996,Hair accessories/Foam hair rollers,b'SLEEP IN ROLLERS',Art. nr 9251,6.99,http://donegal.com.pl/2574-large_default/walki-papiloty-cienkie-14szt.jpg
+997,Hair accessories/Foam hair rollers,b'SLEEP IN ROLLERS',Art. nr 9252,6.99,http://donegal.com.pl/2575-large_default/walki-papiloty-srednie-10szt.jpg
+998,Hair accessories/Foam hair rollers,b'SLEEP IN ROLLERS',Art. nr 9253,6.99,http://donegal.com.pl/2576-large_default/walki-papiloty-grube-6szt.jpg
+3306,Hair accessories/Foam hair rollers,b'SLEEP IN ROLLERS',Art. nr 5006,7.59,http://donegal.com.pl/879-large_default/walki-papiloty-grube-4cm.jpg
+995,Hair accessories/Foam hair rollers,b'FOAM HAIR ROLLERS',Art. nr 9222,5.89,http://donegal.com.pl/2781-large_default/walki-do-wlosow-gabka-20-fmr-10-szt.jpg
+994,Hair accessories/Foam hair rollers,b'FOAM HAIR ROLLERS',Art. nr 9221,5.19,http://donegal.com.pl/2780-large_default/walki-do-wlosow-gabka-25-fmr-8szt.jpg
+993,Hair accessories/Foam hair rollers,b'FOAM HAIR ROLLERS',Art. nr 9220,4.59,http://donegal.com.pl/2779-large_default/walki-do-wlosow-gabka-30-fmr-6szt.jpg
+2606,Hair accessories/Foam hair rollers,b'FOAM HAIR ROLLERS',Art. nr 5910,7.59,http://donegal.com.pl/2774-large_default/walki-do-wlosow-6-szt.jpg
+
+1671,Hair accessories/Other accessories,b'BLACK BOBBYPINS',Art. nr 9239,2.99,http://donegal.com.pl/2770-large_default/wsuwki-short-czarne-50szt.jpg
+1662,Hair accessories/Other accessories,b'BLACK BOBBYPINS',Art. nr 1086,3.59,http://donegal.com.pl/2565-large_default/wsuwki-long-czarne-50-szt.jpg
+1668,Hair accessories/Other accessories,b'BLACK BOBBYPINS',Art. nr 5094,3.99,http://donegal.com.pl/2766-large_default/kokowka-czarna-5cm-50szt.jpg
+1669,Hair accessories/Other accessories,b'BLACK BOBBYPINS',Art. nr 5095,4.39,http://donegal.com.pl/2767-large_default/kokowka-czarna-6cm-50szt.jpg
+1670,Hair accessories/Other accessories,b'BLACK BOBBYPINS',Art. nr 5096,4.29,http://donegal.com.pl/2768-large_default/kokowka-czarna-7cm-50szt.jpg
+3177,Hair accessories/Other accessories,b'BEIGE BOBBYPINS',Art. nr 5092,6.79,http://donegal.com.pl/1080-large_default/wsuwka-5cm-hq-bezowa-24szt.jpg
+3176,Hair accessories/Other accessories,b'BLACK BOBBYPINS',Art. nr 5091,6.79,http://donegal.com.pl/632-large_default/wsuwka-5cm-hq-czarna-24szt.jpg
+3171,Hair accessories/Other accessories,b'METAL DUCKBILL HAIR CLIP',Art. nr 5003,14.89,http://donegal.com.pl/1198-large_default/klips-metalowy-55cm.jpg
+3257,Hair accessories/Other accessories,b'SHOWER CAP',Art. nr 5909,4.96,http://donegal.com.pl/436-large_default/czepek-pod-prysznic-10-szt.jpg
+984,Hair accessories/Other accessories,b'SHOWER CAP',Art. nr 9298,3.29,http://donegal.com.pl/2573-large_default/czepek-pod-prysznic.jpg
+2892,Hair accessories/Other accessories,b'WHITE BOBBYPINS',Art. nr FA-5503,4.29,http://donegal.com.pl/1010-large_default/wsuwka-waska-do-wlosow-biala-24szt.jpg
+2893,Hair accessories/Other accessories,b'Bobbypins 24 pcs',Art. nr FA-5504,4.29,http://donegal.com.pl/1745-large_default/wsuwka-waska-do-wlosow-czarna-szara-24szt.jpg
+2895,Hair accessories/Other accessories,b'COLORFUL BOBBYPINS',Art. nr FA-5506,7.49,http://donegal.com.pl/1091-large_default/wsuwka-do-wlosow-kolorowa-48-szt.jpg
+
+3816,Manicure accessories/Manicure accessories,b'PROFESSIONAL CUTICLE SCISSORS SOLINGEN',Art. nr 9983,38.49,http://donegal.com.pl/2897-large_default/9983.jpg
+1454,Manicure accessories/Manicure accessories,b'PROFESSIONAL NAIL SCISSORS SOLINGEN',Art. nr 9984,38.49,http://donegal.com.pl/2899-large_default/nozyczki-do-paznokci-solingen.jpg
+3817,Manicure accessories/Manicure accessories,b'Professional nail nipper SOLINGEN',Art. nr 9986,56.19,http://donegal.com.pl/2904-large_default/9986.jpg
+3653,Manicure accessories/Manicure accessories,b'METAL CUTICLE CUTTER',Art. nr 2134,9.69,http://donegal.com.pl/474-large_default/radelko-z-narzedziem-do-odsuwania-skorek.jpg
+3796,Manicure accessories/Manicure accessories,b'METAL CUTICLE CUTTER',Art. nr 2139,7.99,http://donegal.com.pl/2814-large_default/2139.jpg
+3741,Manicure accessories/Manicure accessories,b'CUTICLE SCISSORS DREAM ROSE',Art. nr 2232,12.29,http://donegal.com.pl/2228-large_default/2232.jpg
+3740,Manicure accessories/Manicure accessories,b'NAIL SCISSORS DREAM ROSE',Art. nr 2231,12.29,http://donegal.com.pl/2227-large_default/2231.jpg
+3744,Manicure accessories/Manicure accessories,b'NAIL CLIPPER DREAM ROSE',Art. nr 2138,8.79,http://donegal.com.pl/2226-large_default/2138.jpg
+3749,Manicure accessories/Manicure accessories,b'2074',Art. nr 2074,3.59,http://donegal.com.pl/2293-large_default/2074.jpg
+1476,Manicure accessories/Manicure accessories,b'DOUBLE SIDED EMERY BOARD 100/180',Art. nr 1028,2.89,http://donegal.com.pl/84-large_default/pilnik-do-paznokci-100-180.jpg
+3750,Manicure accessories/Manicure accessories,b'DOUBLE-SIDED EMERY BOARD 180/240',Art. nr 2075,3.59,http://donegal.com.pl/2294-large_default/2075.jpg
+1491,Manicure accessories/Manicure accessories,b'DOUBLE-SIDED EMERY BOARD 80/80',Art. nr 9185,3.29,http://donegal.com.pl/395-large_default/pilnik-banan-178-mm-80-80.jpg
+3739,Manicure accessories/Manicure accessories,b'DOUBLE-SIDED EMERY BOARD 240/320',Art. nr 2073,2.99,http://donegal.com.pl/2292-large_default/2073.jpg
+3751,Manicure accessories/Manicure accessories,b'DOUBLE-SIDED EMERY BOARD 220/220',Art. nr 2076,5.99,http://donegal.com.pl/2295-large_default/2076.jpg
+3737,Manicure accessories/Manicure accessories,b'EMERY BOARD AND NAIL FILE SET',Art. nr 2071,16.99,http://donegal.com.pl/2300-large_default/2071.jpg
+3753,Manicure accessories/Manicure accessories,b'DOUBLE-SIDED EMERY BOARD SET 100/180 24 PIECES',Art. nr 2078,33.99,http://donegal.com.pl/2291-large_default/2078.jpg
+3752,Manicure accessories/Manicure accessories,b'DOUBLE-SIDED EMERY BOARD SET 100/180 24 PIECES',Art. nr 2077,44.99,http://donegal.com.pl/2297-large_default/2077.jpg
+3787,Manicure accessories/Manicure accessories,b'MANICURE SET',Art. nr 2429,39.99,http://donegal.com.pl/2793-large_default/2429.jpg
+3786,Manicure accessories/Manicure accessories,b'MANICURE SET',Art. nr 2427,37.99,http://donegal.com.pl/2792-large_default/2427.jpg
+1438,Manicure accessories/Manicure accessories,b'CUTICLE SCISSORS',Art. nr 1007,3.99,http://donegal.com.pl/2670-large_default/nozyczki-do-skorek.jpg
+1445,Manicure accessories/Manicure accessories,b'CUTICLE SCISSORS',Art. nr 9166,11.69,http://donegal.com.pl/2675-large_default/nozyczki-do-skorek.jpg
+
+2998,Manicure accessories/Emery blocks,b'4 - sided nail buffer NEON PLAY',Art. nr 2046,3.89,http://donegal.com.pl/1663-large_default/blok-neon-show.jpg
+1405,Manicure accessories/Emery blocks,b'4 - sided nail buffer',Art. nr 9164,3.69,http://donegal.com.pl/2592-large_default/blok-pilnik-czterostronny-120.jpg
+3007,Manicure accessories/Emery blocks,b'4 - sided nail buffer',Art. nr 2049,3.69,http://donegal.com.pl/2593-large_default/blok-pilnik-czterostronny-120-beauty-care.jpg
+1407,Manicure accessories/Emery blocks,b'3 - sided nail buffer',Art. nr 9308,4.19,http://donegal.com.pl/2594-large_default/blok-3-stopniowy.jpg
+1406,Manicure accessories/Emery blocks,b'4 - sided nail buffer',Art. nr 9307,4.59,http://donegal.com.pl/2595-large_default/blok-4-stopniowy.jpg
+1408,Manicure accessories/Emery blocks,b'3 - sided nail buffer',Art. nr 9351,3.89,http://donegal.com.pl/20-large_default/blok-trojstronny.jpg
+
+3817,Manicure accessories/Cuticle nippers,b'Professional nail nipper SOLINGEN',Art. nr 9986,56.19,http://donegal.com.pl/2904-large_default/9986.jpg
+3001,Manicure accessories/Cuticle nippers,b'Cuticle nipper',Art. nr 2222,25.89,http://donegal.com.pl/2583-large_default/cazki-do-paznokci-quality-123cm.jpg
+1411,Manicure accessories/Cuticle nippers,b'Cuticle nipper',Art. nr 2216,24.99,http://donegal.com.pl/2673-large_default/cazki-do-skorek-kolorowe.jpg
+1413,Manicure accessories/Cuticle nippers,b'Cuticle nipper',Art. nr 9043,22.59,http://donegal.com.pl/2674-large_default/cazki-do-usuwania-skorek-5mm.jpg
+3021,Manicure accessories/Cuticle nippers,b'Cuticle nipper',Art. nr 2225,14.49,http://donegal.com.pl/2587-large_default/cazki-do-skorek-7mm-beauty-care.jpg
+1414,Manicure accessories/Cuticle nippers,b'Cuticle nipper',Art. nr 9644,26.69,http://donegal.com.pl/2677-large_default/cazki-do-skorek-4mm.jpg
+1415,Manicure accessories/Cuticle nippers,b'Cuticle nipper',Art. nr 9942,16.49,http://donegal.com.pl/2678-large_default/cazki-do-skorek-7-mm.jpg
+1416,Manicure accessories/Cuticle nippers,b'Cuticle nipper',Art. nr 9943,18.29,http://donegal.com.pl/2825-large_default/cazki-do-skorek-4mm.jpg
+
+3787,Manicure accessories/Manicure sets,b'MANICURE SET',Art. nr 2429,39.99,http://donegal.com.pl/2793-large_default/2429.jpg
+3786,Manicure accessories/Manicure sets,b'MANICURE SET',Art. nr 2427,37.99,http://donegal.com.pl/2792-large_default/2427.jpg
+2525,Manicure accessories/Manicure sets,b'MANICURE SET FOR CHILDREN',Art. nr 2412,7.99,http://donegal.com.pl/389-large_default/komplet-do-manicure-dla-dzieci-baby-one-.jpg
+
+1454,Manicure accessories/Scissors,b'PROFESSIONAL NAIL SCISSORS SOLINGEN',Art. nr 9984,38.49,http://donegal.com.pl/2899-large_default/nozyczki-do-paznokci-solingen.jpg
+3816,Manicure accessories/Scissors,b'PROFESSIONAL CUTICLE SCISSORS SOLINGEN',Art. nr 9983,38.49,http://donegal.com.pl/2897-large_default/9983.jpg
+3740,Manicure accessories/Scissors,b'NAIL SCISSORS DREAM ROSE',Art. nr 2231,12.29,http://donegal.com.pl/2227-large_default/2231.jpg
+3741,Manicure accessories/Scissors,b'CUTICLE SCISSORS DREAM ROSE',Art. nr 2232,12.29,http://donegal.com.pl/2228-large_default/2232.jpg
+1438,Manicure accessories/Scissors,b'CUTICLE SCISSORS',Art. nr 1007,3.99,http://donegal.com.pl/2670-large_default/nozyczki-do-skorek.jpg
+3023,Manicure accessories/Scissors,b'CUTICLE SCISSORS BEAUTY CARE',Art. nr 2227,11.69,http://donegal.com.pl/332-large_default/nozyczki-do-skorek-beauty-care.jpg
+3022,Manicure accessories/Scissors,b'NAIL SCISSORS',Art. nr 2226,11.69,http://donegal.com.pl/1746-large_default/nozyczki-do-paznokci-beauty-care.jpg
+1446,Manicure accessories/Scissors,b'CUTICLE SCISSORS',Art. nr 9168,11.69,http://donegal.com.pl/2676-large_default/nozyczki-do-paznokci.jpg
+3019,Manicure accessories/Scissors,b'NAIL SCISSORS',Art. nr 2223,8.89,http://donegal.com.pl/1664-large_default/nozyczki-do-paznokci-neon-play.jpg
+3020,Manicure accessories/Scissors,b'CUTICLE SCISSORS',Art. nr 2224,8.89,http://donegal.com.pl/252-large_default/nozyczki-do-skorek-neon-play-ii.jpg
+1451,Manicure accessories/Scissors,b'NAIL SCISSORS',Art. nr 9641,12.89,http://donegal.com.pl/2695-large_default/nozyczki-do-paznokci.jpg
+1437,Manicure accessories/Scissors,b'NAIL SCISSORS',Art. nr 1006,3.99,http://donegal.com.pl/2669-large_default/nozyczki-do-paznokci.jpg
+1452,Manicure accessories/Scissors,b'SAFE BABY NAIL SCISSORS',Art. nr 9978,6.19,http://donegal.com.pl/2679-large_default/nozyczki-bezpieczne-uniwersalne.jpg
+1439,Manicure accessories/Scissors,b'NAIL SCISSORS',Art. nr 1010,6.89,http://donegal.com.pl/2671-large_default/nozyczki-do-paznokci.jpg
+1440,Manicure accessories/Scissors,b'CUTICLE SCISSORS',Art. nr 1011,6.99,http://donegal.com.pl/2672-large_default/nozyczki-do-skorek.jpg
+1447,Manicure accessories/Scissors,b'NAIL SCISSORS',Art. nr 9366,13.19,http://donegal.com.pl/1970-large_default/nozyczki-do-paznokci.jpg
+1448,Manicure accessories/Scissors,b'NO\xc5\xbbYCZKI DO SK\xc3\x93REK',Art. nr 9367,13.19,http://donegal.com.pl/1241-large_default/nozyczki-do-skorek.jpg
+1445,Manicure accessories/Scissors,b'CUTICLE SCISSORS',Art. nr 9166,11.69,http://donegal.com.pl/2675-large_default/nozyczki-do-skorek.jpg
+
+3744,Manicure accessories/Nail clippers,b'NAIL CLIPPER DREAM ROSE',Art. nr 2138,8.79,http://donegal.com.pl/2226-large_default/2138.jpg
+1460,Manicure accessories/Nail clippers,b'NAIL CLIPPER',Art. nr 1014,2.49,http://donegal.com.pl/405-large_default/obcinacz-do-paznokci.jpg
+1461,Manicure accessories/Nail clippers,b'NAIL CLIPPER',Art. nr 1015,3.99,http://donegal.com.pl/205-large_default/obcinacz-do-paznokci.jpg
+3015,Manicure accessories/Nail clippers,b'NAIL CLIPPER',Art. nr 2129,3.99,http://donegal.com.pl/850-large_default/obcinacz-do-paznokci-duzy-beauty-care.jpg
+3014,Manicure accessories/Nail clippers,b'NAIL CLIPPER',Art. nr 2128,2.49,http://donegal.com.pl/93-large_default/obcinacz-do-paznokci-sredni-beauty-care.jpg
+3013,Manicure accessories/Nail clippers,b'NAIL CLIPPER',Art. nr 2127,2.29,http://donegal.com.pl/1520-large_default/obcinacz-do-paznokci-maly-beauty-care.jpg
+2234,Manicure accessories/Nail clippers,b'OBCINACZKI DO PAZNOKCI',Art. nr 2105,5.59,http://donegal.com.pl/2833-large_default/obcinaczki-do-paznokci.jpg
+2412,Manicure accessories/Nail clippers,b'NAIL CLIPPER',Art. nr 2107,5.69,http://donegal.com.pl/654-large_default/obcinacz-duzy-czarny.jpg
+1466,Manicure accessories/Nail clippers,b'NAIL CLIPPER WITH NAIL FILE',Art. nr 9379,3.39,http://donegal.com.pl/2845-large_default/obcinacz-do-paznokci-z-pilnikiem.jpg
+1459,Manicure accessories/Nail clippers,b'NAIL CLIPPER',Art. nr 1013,2.29,http://donegal.com.pl/2834-large_default/obcinacz-do-paznokci.jpg
+2520,Manicure accessories/Nail clippers,b'NAIL CLIPPER FOR CHILDREN',Art. nr 2108,4.69,http://donegal.com.pl/1245-large_default/obcinacz-do-paznokci-dla-dzieci-puchatek.jpg
+2521,Manicure accessories/Nail clippers,b'NAIL CLIPPER FOR CHILDREN',Art. nr 2109,4.69,http://donegal.com.pl/1974-large_default/obcinacz-do-paznokci-dla-dzieci-spiderman.jpg
+
+1469,Manicure accessories/Wooden cuticle sticks,b'ORANGE WOOD STICK CUTICLE PUSHER',Art. nr 9208,1.99,http://donegal.com.pl/357-large_default/patyczki-do-skorek-5-szt.jpg
+1470,Manicure accessories/Wooden cuticle sticks,b'ORANGE WOOD STICK CUTICLE PUSHER',Art. nr 9765,1.59,http://donegal.com.pl/2596-large_default/patyczki-do-skorek-5-szt.jpg
+3018,Manicure accessories/Wooden cuticle sticks,b'ORANGE WOOD STICK CUTICLE PUSHER',Art. nr 2132,1.59,http://donegal.com.pl/2713-large_default/patyczki-do-skorek-95cm-5szt-beauty-care.jpg
+
+1496,Manicure accessories/Nail files,b'GLAS NAIL FILE',Art. nr 9246,9.99,http://donegal.com.pl/2974-large_default/pilnik-szklany-dwustr-9-cm.jpg
+1498,Manicure accessories/Nail files,b'GLAS NAIL FILE',Art. nr 9262,10.19,http://donegal.com.pl/2973-large_default/pilnik-szklany-dwustronny-14-cm.jpg
+2469,Manicure accessories/Nail files,b'GLAS NAIL FILE',Art. nr 2012,19.99,http://donegal.com.pl/1851-large_default/f-systems-pilnik-szklany-do-paznokci.jpg
+3749,Manicure accessories/Nail files,b'2074',Art. nr 2074,3.59,http://donegal.com.pl/2293-large_default/2074.jpg
+3750,Manicure accessories/Nail files,b'DOUBLE-SIDED EMERY BOARD 180/240',Art. nr 2075,3.59,http://donegal.com.pl/2294-large_default/2075.jpg
+3751,Manicure accessories/Nail files,b'DOUBLE-SIDED EMERY BOARD 220/220',Art. nr 2076,5.99,http://donegal.com.pl/2295-large_default/2076.jpg
+1476,Manicure accessories/Nail files,b'DOUBLE SIDED EMERY BOARD 100/180',Art. nr 1028,2.89,http://donegal.com.pl/84-large_default/pilnik-do-paznokci-100-180.jpg
+1491,Manicure accessories/Nail files,b'DOUBLE-SIDED EMERY BOARD 80/80',Art. nr 9185,3.29,http://donegal.com.pl/395-large_default/pilnik-banan-178-mm-80-80.jpg
+3739,Manicure accessories/Nail files,b'DOUBLE-SIDED EMERY BOARD 240/320',Art. nr 2073,2.99,http://donegal.com.pl/2292-large_default/2073.jpg
+3737,Manicure accessories/Nail files,b'EMERY BOARD AND NAIL FILE SET',Art. nr 2071,16.99,http://donegal.com.pl/2300-large_default/2071.jpg
+3753,Manicure accessories/Nail files,b'DOUBLE-SIDED EMERY BOARD SET 100/180 24 PIECES',Art. nr 2078,33.99,http://donegal.com.pl/2291-large_default/2078.jpg
+3752,Manicure accessories/Nail files,b'DOUBLE-SIDED EMERY BOARD SET 100/180 24 PIECES',Art. nr 2077,44.99,http://donegal.com.pl/2297-large_default/2077.jpg
+1497,Manicure accessories/Nail files,b'SAPPHIRE NAIL FILE',Art. nr 9261,2.99,http://donegal.com.pl/2703-large_default/pilnik-szafirowy-10cm.jpg
+1472,Manicure accessories/Nail files,b'SAPPHIRE NAIL FILE',Art. nr 1019,3.19,http://donegal.com.pl/2704-large_default/pilnik-szafirowy-15cm.jpg
+1473,Manicure accessories/Nail files,b'SAPPHIRE NAIL FILE',Art. nr 1020,2.79,http://donegal.com.pl/2705-large_default/pilnik-szafirowy-175cm.jpg
+1506,Manicure accessories/Nail files,b'DOUBLE-SIDED EMERY BOARD 150/280',Art. nr 9680,4.59,http://donegal.com.pl/546-large_default/pilnik-do-paznokci-150-280-st.jpg
+1507,Manicure accessories/Nail files,b'PILNIK DO PAZNOKCI 150/280',Art. nr 9681,5.39,http://donegal.com.pl/1300-large_default/pilnik-do-paznokci-150-280.jpg
+1500,Manicure accessories/Nail files,b'DOUBLE-SIDED EMERY BOARD 180/180',Art. nr 9309,3.29,http://donegal.com.pl/1564-large_default/pilnik-do-paznokci.jpg
+2997,Manicure accessories/Nail files,b'DOUBLE \xe2\x80\x93 SIDED EMERY BOARD NEON PLAY 240/240',Art. nr 2043,3.39,http://donegal.com.pl/1349-large_default/pilnik-do-paznokci-neon-play.jpg
+2996,Manicure accessories/Nail files,b'DOUBLE \xe2\x80\x93 SIDED EMERY BOARD NEON PLAY 240/240',Art. nr 2044,3.39,http://donegal.com.pl/615-large_default/pilnik-do-paznokci-neon-play-ii.jpg
+3308,Manicure accessories/Nail files,b'EMERY BOARD  180/180 MULTI LAYER',Art. nr 2062,4.39,http://donegal.com.pl/281-large_default/pilnik-z-odklejanymi-powierzchniami.jpg
+
+3736,Manicure accessories/Nail buffers,b'DOUBLE \xe2\x80\x93 SIDED NAIL FILE',Art. nr 2070,4.89,http://donegal.com.pl/2289-large_default/2070.jpg
+3005,Manicure accessories/Nail buffers,b'NAIL BUFFER',Art. nr 2048,4.59,http://donegal.com.pl/2077-large_default/polerka-7y-nails.jpg
+3738,Manicure accessories/Nail buffers,b'DOUBLE SIDED NAIL BUFFER 600/3000',Art. nr 2072,3.49,http://donegal.com.pl/2287-large_default/2072.jpg
+1522,Manicure accessories/Nail buffers,b'DOUBLE-SIDED NAIL BUFFER  800/3600',Art. nr 9658,4.99,http://donegal.com.pl/2185-large_default/polerka-dwustronna-800-3600-st.jpg
+1519,Manicure accessories/Nail buffers,b'DOUBLE-SIDED NAIL BUFFER 320/800/3000',Art. nr 1079,2.69,http://donegal.com.pl/1815-large_default/polerka-trojstronna-145-cm.jpg
+1520,Manicure accessories/Nail buffers,b'DOUBLE-SIDED NAIL BUFFER 600/800/3000',Art. nr 1264,3.89,http://donegal.com.pl/798-large_default/polerka-trojstronna-178-cm.jpg
+2999,Manicure accessories/Nail buffers,b'NAIL BUFFER 600/800/4000',Art. nr 2047,4.59,http://donegal.com.pl/1464-large_default/polerka-3y-nails.jpg
+1521,Manicure accessories/Nail buffers,b'NAIL BUFFER',Art. nr 2040,2.89,http://donegal.com.pl/1531-large_default/polerka-kolorowa.jpg
+1518,Manicure accessories/Nail buffers,b'DOUBLE SIDED NAIL BUFFER WITH EMERY BOARD',Art. nr 1025,2.49,http://donegal.com.pl/1470-large_default/polerka-trzystopniowa-z-pilnikiem.jpg
+2515,Manicure accessories/Nail buffers,b'DOUBLE-SIDED NAIL BUFFER 3000/4000',Art. nr 2042,4.69,http://donegal.com.pl/2823-large_default/polerka-kolorowa.jpg
+
+3796,Manicure accessories/Cuticle trimmers,b'METAL CUTICLE CUTTER',Art. nr 2139,7.99,http://donegal.com.pl/2814-large_default/2139.jpg
+3653,Manicure accessories/Cuticle trimmers,b'METAL CUTICLE CUTTER',Art. nr 2134,9.69,http://donegal.com.pl/474-large_default/radelko-z-narzedziem-do-odsuwania-skorek.jpg
+3000,Manicure accessories/Cuticle trimmers,b'CUTICLE CUTTER',Art. nr 2119,2.79,http://donegal.com.pl/1937-large_default/wycinacz-do-skorek-neon-play.jpg
+1526,Manicure accessories/Cuticle trimmers,b'CUTICLE CUTTER',Art. nr 2096,2.99,http://donegal.com.pl/2824-large_default/radelko.jpg
+1528,Manicure accessories/Cuticle trimmers,b'CUTICLE CUTTER WITH NAIL FILE',Art. nr 2099,4.69,http://donegal.com.pl/1679-large_default/radelko-z-pilnikiem-ceramicznym.jpg
+1527,Manicure accessories/Cuticle trimmers,b'CUTICLE CUTTER WITH NAIL FILE',Art. nr 2097,2.89,http://donegal.com.pl/2719-large_default/radelko-z-pilnikiem-laserowym.jpg
+1525,Manicure accessories/Cuticle trimmers,b'CUTICLE CUTTER',Art. nr 1081,1.59,http://donegal.com.pl/2720-large_default/radelko.jpg
+1524,Manicure accessories/Cuticle trimmers,b'CUTICLE CUTTER WITH CUTICLE PUSHER',Art. nr 1043,2.19,http://donegal.com.pl/2821-large_default/radelko-z-narzedziem-do-odsuwania-skorek.jpg
+3016,Manicure accessories/Cuticle trimmers,b'CUTICLE CUTTER BEAUTY CARE',Art. nr 2130,1.59,http://donegal.com.pl/2721-large_default/radelko-beauty-care.jpg
+3017,Manicure accessories/Cuticle trimmers,b'CUTICLE CUTTER WITH CUTICLE PUSHER BEAUTY CARE',Art. nr 2131,2.19,http://donegal.com.pl/2822-large_default/radelko-z-kopytkiem-beauty-care.jpg
+
+1774,Nail ornaments/Nail ornaments,b'Red glitter',Art. nr 3512,1.99,http://donegal.com.pl/1506-large_default/brokat-pyl-czerwony-ciemny.jpg
+1776,Nail ornaments/Nail ornaments,b'Green glitter',Art. nr 3514,1.99,http://donegal.com.pl/777-large_default/brokat-pyl-zielony.jpg
+1778,Nail ornaments/Nail ornaments,b'Brown glitter',Art. nr 3516,1.99,http://donegal.com.pl/83-large_default/brokat-pyl-braz-jasny.jpg
+1779,Nail ornaments/Nail ornaments,b'Turquoise glitter',Art. nr 3517,1.99,http://donegal.com.pl/840-large_default/brokat-pyl-turkusowy-ciemny.jpg
+1785,Nail ornaments/Nail ornaments,b'Burgundy glitter',Art. nr 3521,1.99,http://donegal.com.pl/1002-large_default/brokat-pyl-braz-ciemny.jpg
+1786,Nail ornaments/Nail ornaments,b'Copper glitter',Art. nr 3522,1.99,http://donegal.com.pl/1736-large_default/brokat-pyl-miedziany.jpg
+1787,Nail ornaments/Nail ornaments,b'Light green glitter',Art. nr 3523,1.99,http://donegal.com.pl/322-large_default/brokat-pyl-zielony-jasny.jpg
+1791,Nail ornaments/Nail ornaments,b'Lilac glitter',Art. nr 3524,1.99,http://donegal.com.pl/1161-large_default/brokat-pyl-rozowo-bezowy.jpg
+1772,Nail ornaments/Nail ornaments,b'Silver glitter',Art. nr 3510,1.99,http://donegal.com.pl/2180-large_default/brokat-pyl-srebrny.jpg
+3721,Nail ornaments/Nail ornaments,b'NAIL STICKERS',Art. nr 3606/08,3.69,http://donegal.com.pl/2298-large_default/3606-08.jpg
+3720,Nail ornaments/Nail ornaments,b'NAIL STICKERS',Art. nr 3604/4,3.19,http://donegal.com.pl/2299-large_default/3604-4.jpg
+3706,Nail ornaments/Nail ornaments,b'NAIL STICKERS',Art. nr 3700,5.99,http://donegal.com.pl/466-large_default/naklejki-na-paznokcie-3d-gwiazdziste-niebo.jpg
+3708,Nail ornaments/Nail ornaments,b'NAIL STICKERS',Art. nr 3702,5.99,http://donegal.com.pl/1950-large_default/naklejki-na-paznokcie-magiczna-polana.jpg
+3703,Nail ornaments/Nail ornaments,b'NAIL STICKERS',Art. nr 3697,5.99,http://donegal.com.pl/1142-large_default/naklejki-na-paznokcie-letni-poranek.jpg
+3704,Nail ornaments/Nail ornaments,b'NAIL STICKERS',Art. nr 3698,5.99,http://donegal.com.pl/978-large_default/naklejki-na-paznokcie-pierwsza-randka.jpg
+3705,Nail ornaments/Nail ornaments,b'NAIL STICKERS',Art. nr 3699,5.99,http://donegal.com.pl/1872-large_default/naklejki-na-paznokcie-tropikalny-raj.jpg
+3707,Nail ornaments/Nail ornaments,b'NAIL STICKERS',Art. nr 3701,5.99,http://donegal.com.pl/1222-large_default/naklejki-na-paznokcie-wiosenna-laka.jpg
+
+3717,Nail ornaments/Glitters,b'Cherry glitter',Art. nr 3502/08,6.39,http://donegal.com.pl/2262-large_default/3502-08.jpg
+3718,Nail ornaments/Glitters,b'Green glitter',Art. nr 3503/07,6.39,http://donegal.com.pl/2263-large_default/3503-07.jpg
+1772,Nail ornaments/Glitters,b'Silver glitter',Art. nr 3510,1.99,http://donegal.com.pl/2180-large_default/brokat-pyl-srebrny.jpg
+1791,Nail ornaments/Glitters,b'Lilac glitter',Art. nr 3524,1.99,http://donegal.com.pl/1161-large_default/brokat-pyl-rozowo-bezowy.jpg
+1785,Nail ornaments/Glitters,b'Burgundy glitter',Art. nr 3521,1.99,http://donegal.com.pl/1002-large_default/brokat-pyl-braz-ciemny.jpg
+1779,Nail ornaments/Glitters,b'Turquoise glitter',Art. nr 3517,1.99,http://donegal.com.pl/840-large_default/brokat-pyl-turkusowy-ciemny.jpg
+1787,Nail ornaments/Glitters,b'Light green glitter',Art. nr 3523,1.99,http://donegal.com.pl/322-large_default/brokat-pyl-zielony-jasny.jpg
+1776,Nail ornaments/Glitters,b'Green glitter',Art. nr 3514,1.99,http://donegal.com.pl/777-large_default/brokat-pyl-zielony.jpg
+1778,Nail ornaments/Glitters,b'Brown glitter',Art. nr 3516,1.99,http://donegal.com.pl/83-large_default/brokat-pyl-braz-jasny.jpg
+1786,Nail ornaments/Glitters,b'Copper glitter',Art. nr 3522,1.99,http://donegal.com.pl/1736-large_default/brokat-pyl-miedziany.jpg
+1774,Nail ornaments/Glitters,b'Red glitter',Art. nr 3512,1.99,http://donegal.com.pl/1506-large_default/brokat-pyl-czerwony-ciemny.jpg
+3722,Nail ornaments/Glitters,b'Gold glitter',Art. nr 3501/3,1.99,http://donegal.com.pl/2258-large_default/3501-3.jpg
+3725,Nail ornaments/Glitters,b'Pink glitter',Art. nr 3501/8,1.99,http://donegal.com.pl/2261-large_default/35018.jpg
+3723,Nail ornaments/Glitters,b'Purple glitter',Art. nr 3501/6,1.99,http://donegal.com.pl/2259-large_default/3501-6.jpg
+3724,Nail ornaments/Glitters,b'Maroon glitter',Art. nr 3501/7,1.99,http://donegal.com.pl/2260-large_default/3501-7.jpg
+
+3721,Nail ornaments/Nail stickers,b'NAIL STICKERS',Art. nr 3606/08,3.69,http://donegal.com.pl/2298-large_default/3606-08.jpg
+3720,Nail ornaments/Nail stickers,b'NAIL STICKERS',Art. nr 3604/4,3.19,http://donegal.com.pl/2299-large_default/3604-4.jpg
+2488,Nail ornaments/Nail stickers,b'NAIL STICKERS',Art. nr 3637,4.89,http://donegal.com.pl/200-large_default/naklejki-na-paznokcie.jpg
+3703,Nail ornaments/Nail stickers,b'NAIL STICKERS',Art. nr 3697,5.99,http://donegal.com.pl/1142-large_default/naklejki-na-paznokcie-letni-poranek.jpg
+3708,Nail ornaments/Nail stickers,b'NAIL STICKERS',Art. nr 3702,5.99,http://donegal.com.pl/1950-large_default/naklejki-na-paznokcie-magiczna-polana.jpg
+3704,Nail ornaments/Nail stickers,b'NAIL STICKERS',Art. nr 3698,5.99,http://donegal.com.pl/978-large_default/naklejki-na-paznokcie-pierwsza-randka.jpg
+3705,Nail ornaments/Nail stickers,b'NAIL STICKERS',Art. nr 3699,5.99,http://donegal.com.pl/1872-large_default/naklejki-na-paznokcie-tropikalny-raj.jpg
+3706,Nail ornaments/Nail stickers,b'NAIL STICKERS',Art. nr 3700,5.99,http://donegal.com.pl/466-large_default/naklejki-na-paznokcie-3d-gwiazdziste-niebo.jpg
+3707,Nail ornaments/Nail stickers,b'NAIL STICKERS',Art. nr 3701,5.99,http://donegal.com.pl/1222-large_default/naklejki-na-paznokcie-wiosenna-laka.jpg
+
+3833,Nails/Nails,b'Cleaner 150 ml',Art. nr 2485,7.79,http://donegal.com.pl/2982-large_default/2485.jpg
+3834,Nails/Nails,b'Remover 150 ml',Art. nr 2486,10.39,http://donegal.com.pl/3047-large_default/2486.jpg
+3835,Nails/Nails,b'Acetone 150 ml',Art. nr 2487,8.79,http://donegal.com.pl/2984-large_default/2487.jpg
+3821,Nails/Nails,b'ARTIFICIAL NAILS',Art. nr 3044,16.69,http://donegal.com.pl/2912-large_default/3044.jpg
+3818,Nails/Nails,b'ARTIFICIAL NAILS',Art. nr 3043,16.69,http://donegal.com.pl/2922-large_default/3043.jpg
+3822,Nails/Nails,b'ARTIFICIAL NAILS',Art. nr 3045,16.69,http://donegal.com.pl/2914-large_default/3045.jpg
+3824,Nails/Nails,b'ARTIFICIAL NAILS',Art. nr 3047,16.69,http://donegal.com.pl/2918-large_default/3047.jpg
+3825,Nails/Nails,b'ARTIFICIAL NAILS',Art. nr 3048,16.69,http://donegal.com.pl/2920-large_default/3048.jpg
+3715,Nails/Nails,b'ARTIFICIAL NAILS',Art. nr 3040,16.69,http://donegal.com.pl/2549-large_default/friendly-url-autogeneration-failed.jpg
+3716,Nails/Nails,b'ARTIFICIAL NAILS',Art. nr 3041,16.69,http://donegal.com.pl/2551-large_default/friendly-url-autogeneration-failed.jpg
+3756,Nails/Nails,b'NAIL POLISH REMOVER STRAWBERRY',Art. nr 2488,9.19,http://donegal.com.pl/2242-large_default/2488.jpg
+2498,Nails/Nails,b'NAIL POLISH REMOVER MANGO',Art. nr 2497,7.69,http://donegal.com.pl/723-large_default/zmywacz-do-paznokci-w-zelu-o-zapachu-mango.jpg
+2025,Nails/Nails,b'NAIL POLISH REMOVER',Art. nr 2492,6.29,http://donegal.com.pl/1592-large_default/zmywacz-do-paznokci-z-gabka-50ml.jpg
+2027,Nails/Nails,b'NAIL POLISH REMOVER WITH VITAMIN E',Art. nr 9149,3.59,http://donegal.com.pl/2754-large_default/zmywacz-do-paznokci-z-witamina-e-50ml.jpg
+2217,Nails/Nails,b'NAIL POLISH REMOVER',Art. nr 2496,7.69,http://donegal.com.pl/1890-large_default/zmywacz-wybielajacy-z-ekstraktem-z-cytryny.jpg
+2218,Nails/Nails,b'NAIL POLISH REMOVER WITH SILK PROTEINS',Art. nr 2495,7.29,http://donegal.com.pl/50-large_default/emulsja-zmywajaca-do-paznokci-z-proteinami-jedwabiu.jpg
+1950,Nails/Nails,b'NAIL GLUE',Art. nr 9137,6.19,http://donegal.com.pl/1101-large_default/klej-do-paznokci-bezbarwny.jpg
+1953,Nails/Nails,b'NAIL GLUE',Art. nr 9725,6.49,http://donegal.com.pl/689-large_default/klej-do-paznokci-rozowy.jpg
+1946,Nails/Nails,b'PAINTING MANICURE BRUSH',Art. nr 9619,17.89,http://donegal.com.pl/2195-large_default/pedzle-do-zdobienia-paznokci-4-szt.jpg
+2604,Nails/Nails,b'COTTON COSMETIC GLOVE',Art. nr 6103,13.49,http://donegal.com.pl/1730-large_default/bawelniane-rekawiczki-kosmetyczne-body-and-care-rozmiar-uniwersalny.jpg
+1951,Nails/Nails,b'FRENCH MANICURE STICKERS',Art. nr 9577,2.39,http://donegal.com.pl/2723-large_default/szablony-do-french-manicure.jpg
+
+3821,Nails/Artificial nails,b'ARTIFICIAL NAILS',Art. nr 3044,16.69,http://donegal.com.pl/2912-large_default/3044.jpg
+3822,Nails/Artificial nails,b'ARTIFICIAL NAILS',Art. nr 3045,16.69,http://donegal.com.pl/2914-large_default/3045.jpg
+3818,Nails/Artificial nails,b'ARTIFICIAL NAILS',Art. nr 3043,16.69,http://donegal.com.pl/2922-large_default/3043.jpg
+3824,Nails/Artificial nails,b'ARTIFICIAL NAILS',Art. nr 3047,16.69,http://donegal.com.pl/2918-large_default/3047.jpg
+3825,Nails/Artificial nails,b'ARTIFICIAL NAILS',Art. nr 3048,16.69,http://donegal.com.pl/2920-large_default/3048.jpg
+3715,Nails/Artificial nails,b'ARTIFICIAL NAILS',Art. nr 3040,16.69,http://donegal.com.pl/2549-large_default/friendly-url-autogeneration-failed.jpg
+3716,Nails/Artificial nails,b'ARTIFICIAL NAILS',Art. nr 3041,16.69,http://donegal.com.pl/2551-large_default/friendly-url-autogeneration-failed.jpg
+1957,Nails/Artificial nails,b'ARTIFICIAL NAILS',Art. nr 3000,89.99,http://donegal.com.pl/2722-large_default/sztpaznokcie-max-pal-24-20szt.jpg
+1956,Nails/Artificial nails,b'ARTIFICIAL NAILS',Art. nr 1037,4.99,http://donegal.com.pl/748-large_default/szt-paznokcie-max-20-szt.jpg
+3650,Nails/Artificial nails,b'ARTIFICIAL NAILS',Art. nr 3030,10.69,http://donegal.com.pl/408-large_default/sztuczne-paznokcie-24szt.jpg
+3651,Nails/Artificial nails,b'ARTIFICIAL NAILS',Art. nr 3031,10.69,http://donegal.com.pl/1361-large_default/sztuczne-paznokcie-24szt.jpg
+
+3833,Nails/Nail polish removers,b'Cleaner 150 ml',Art. nr 2485,7.79,http://donegal.com.pl/2982-large_default/2485.jpg
+3834,Nails/Nail polish removers,b'Remover 150 ml',Art. nr 2486,10.39,http://donegal.com.pl/3047-large_default/2486.jpg
+3835,Nails/Nail polish removers,b'Acetone 150 ml',Art. nr 2487,8.79,http://donegal.com.pl/2984-large_default/2487.jpg
+3756,Nails/Nail polish removers,b'NAIL POLISH REMOVER STRAWBERRY',Art. nr 2488,9.19,http://donegal.com.pl/2242-large_default/2488.jpg
+2026,Nails/Nail polish removers,b'NAIL POLISH REMOVER WITH VITAMIN E',Art. nr 9148,5.69,http://donegal.com.pl/2753-large_default/zmywacz-do-paznokci-z-witamina-e-100ml.jpg
+2027,Nails/Nail polish removers,b'NAIL POLISH REMOVER WITH VITAMIN E',Art. nr 9149,3.59,http://donegal.com.pl/2754-large_default/zmywacz-do-paznokci-z-witamina-e-50ml.jpg
+2028,Nails/Nail polish removers,b'NAIL POLISH REMOVER STRAWBERRY',Art. nr 9684,7.29,http://donegal.com.pl/536-large_default/zmywacz-do-paznokci-o-zapachu-truskawkowym-bezacetonowy.jpg
+2217,Nails/Nail polish removers,b'NAIL POLISH REMOVER',Art. nr 2496,7.69,http://donegal.com.pl/1890-large_default/zmywacz-wybielajacy-z-ekstraktem-z-cytryny.jpg
+2498,Nails/Nail polish removers,b'NAIL POLISH REMOVER MANGO',Art. nr 2497,7.69,http://donegal.com.pl/723-large_default/zmywacz-do-paznokci-w-zelu-o-zapachu-mango.jpg
+2218,Nails/Nail polish removers,b'NAIL POLISH REMOVER WITH SILK PROTEINS',Art. nr 2495,7.29,http://donegal.com.pl/50-large_default/emulsja-zmywajaca-do-paznokci-z-proteinami-jedwabiu.jpg
+2025,Nails/Nail polish removers,b'NAIL POLISH REMOVER',Art. nr 2492,6.29,http://donegal.com.pl/1592-large_default/zmywacz-do-paznokci-z-gabka-50ml.jpg
+
+1946,Nails/Nail accessories,b'PAINTING MANICURE BRUSH',Art. nr 9619,17.89,http://donegal.com.pl/2195-large_default/pedzle-do-zdobienia-paznokci-4-szt.jpg
+2604,Nails/Nail accessories,b'COTTON COSMETIC GLOVE',Art. nr 6103,13.49,http://donegal.com.pl/1730-large_default/bawelniane-rekawiczki-kosmetyczne-body-and-care-rozmiar-uniwersalny.jpg
+1951,Nails/Nail accessories,b'FRENCH MANICURE STICKERS',Art. nr 9577,2.39,http://donegal.com.pl/2723-large_default/szablony-do-french-manicure.jpg
+1950,Nails/Nail accessories,b'NAIL GLUE',Art. nr 9137,6.19,http://donegal.com.pl/1101-large_default/klej-do-paznokci-bezbarwny.jpg
+1953,Nails/Nail accessories,b'NAIL GLUE',Art. nr 9725,6.49,http://donegal.com.pl/689-large_default/klej-do-paznokci-rozowy.jpg
+3826,Nails/Nail accessories,b'3100',Art. nr 3100,9.59,http://donegal.com.pl/2970-large_default/3100.jpg
+
+2819,Pedicure/F3 Systems,b'CALLUS SHAVER F\xc2\xb3 SYSTEMS',Art. nr 2599,11.19,http://donegal.com.pl/1330-large_default/f-systems-scinak-do-stop-rozowy.jpg
+2818,Pedicure/F3 Systems,b'CALLUS SHAVER F\xc2\xb3 SYSTEMS',Art. nr 2598,11.19,http://donegal.com.pl/590-large_default/f-systems-scinak-do-stop-fioletowy.jpg
+2817,Pedicure/F3 Systems,b'CALLUS SHAVER F\xc2\xb3 SYSTEMS',Art. nr 2597,11.19,http://donegal.com.pl/1997-large_default/f-systems-scinak-do-stop-pomaranczowy.jpg
+2030,Pedicure/F3 Systems,b'FOOT FILE F\xc2\xb3 SYSTEMS',Art. nr 9395,24.49,http://donegal.com.pl/2020-large_default/tarka-z-pilnikiem-2w1-f-systems.jpg
+2469,Pedicure/F3 Systems,b'GLAS NAIL FILE',Art. nr 2012,19.99,http://donegal.com.pl/1851-large_default/f-systems-pilnik-szklany-do-paznokci.jpg
+2434,Pedicure/F3 Systems,b'TOE AND FINGER NAIL BRUSH F\xc2\xb3 SYSTEMS',Art. nr 2551,22.39,http://donegal.com.pl/2157-large_default/szczoteczka-do-stop.jpg
+2305,Pedicure/F3 Systems,b'BODY MASSAGER  F\xc2\xb3 SYSTEMS',Art. nr 2552,16.49,http://donegal.com.pl/634-large_default/masazer-do-ciala-f-systems.jpg
+2613,Pedicure/F3 Systems,b'F\xc2\xb3  SYSTEMS C\xc4\x84\xc5\xbbKI DO SK\xc3\x93REK',Art. nr 2218,26.69,http://donegal.com.pl/1963-large_default/f-systems-cazki-do-skorek.jpg
+
+2047,Pedicure/Pumice,b'NATURAL PUMICE STONE',Art. nr 2512,12.59,http://donegal.com.pl/851-large_default/pumeks-wulkaniczny.jpg
+2044,Pedicure/Pumice,b'NATURAL PUMICE STONE',Art. nr 1084,3.79,http://donegal.com.pl/747-large_default/pumeks.jpg
+2043,Pedicure/Pumice,b'FOOT BRUSH WITH PUMICE STONE',Art. nr 1083,5.49,http://donegal.com.pl/30-large_default/szczoteczka-z-pumeksem.jpg
+2049,Pedicure/Pumice,b'NATURAL PUMICE STONE',Art. nr 9442,1.99,http://donegal.com.pl/82-large_default/pumeks-naturalny.jpg
+2051,Pedicure/Pumice,b'PUMICE STONE',Art. nr 9990,1.59,http://donegal.com.pl/1665-large_default/pumeks-syntetyczny.jpg
+3167,Pedicure/Pumice,b'QUARTZ PUMICE STONE',Art. nr 2515,1.99,http://donegal.com.pl/600-large_default/pumeks-kwarcowy-8x5x2cm.jpg
+2050,Pedicure/Pumice,b'NAIL BRUSH WITH NATURAL PUMICE STONE',Art. nr 9661,7.39,http://donegal.com.pl/2735-large_default/pumeks-ze-szczoteczka.jpg
+2048,Pedicure/Pumice,b'NATURAL PUMICE STONE',Art. nr 2513,19.19,http://donegal.com.pl/556-large_default/pumeks-naturalny-zestaw-91.jpg
+
+2030,Pedicure/Pedicure files,b'FOOT FILE F\xc2\xb3 SYSTEMS',Art. nr 9395,24.49,http://donegal.com.pl/2020-large_default/tarka-z-pilnikiem-2w1-f-systems.jpg
+3250,Pedicure/Pedicure files,b'DOUBLE SIDED QUARTZ FOOT FILE',Art. nr 2545,6.19,http://donegal.com.pl/2119-large_default/tarka-drewniana-do-stop-nature-gift.jpg
+2061,Pedicure/Pedicure files,b'WOODEN FOOT FILE',Art. nr 9533,4.29,http://donegal.com.pl/1735-large_default/tarka-do-stop-nature-.jpg
+3820,Pedicure/Pedicure files,b'DOUBLE-SIDED FOOT FILE',Art. nr 2546,8.89,http://donegal.com.pl/2907-large_default/2546.jpg
+2056,Pedicure/Pedicure files,b'FOOT FILE',Art. nr 1045,4.99,http://donegal.com.pl/2724-large_default/tarka-do-piet-classic-.jpg
+2059,Pedicure/Pedicure files,b'GRATER WITH PUMICE',Art. nr 2532,6.89,http://donegal.com.pl/242-large_default/tarka-do-piet-z-pumeksem-2-in-1-.jpg
+2053,Pedicure/Pedicure files,b'DOUBLE SIDED FOOT FILE',Art. nr 1023,3.69,http://donegal.com.pl/2725-large_default/tarka-do-piet-white-seashell-.jpg
+3027,Pedicure/Pedicure files,b'DOUBLE SIDED FOOT FILE',Art. nr 2543,3.59,http://donegal.com.pl/1901-large_default/tarka-do-piet-beauty-care.jpg
+2052,Pedicure/Pedicure files,b'DOUBLE SIDED FOOT FILE',Art. nr 1022,3.59,http://donegal.com.pl/2726-large_default/tarka-do-piet-round-.jpg
+2504,Pedicure/Pedicure files,b'DOUBLE SIDED FOOT FILE',Art. nr 2536,6.29,http://donegal.com.pl/2827-large_default/tarka-do-piet-pretty-in-pink-.jpg
+2054,Pedicure/Pedicure files,b'DOUBLE SIDED METAL FOOT FILE',Art. nr 1024,5.29,http://donegal.com.pl/160-large_default/tarka-do-piet-stalowa-steel-.jpg
+3028,Pedicure/Pedicure files,b'DOUBLE SIDED METAL FOOT FILE',Art. nr 2544,5.29,http://donegal.com.pl/495-large_default/tarka-do-piet-stalowa-beauty-care.jpg
+2055,Pedicure/Pedicure files,b'METAL FOOT FILE',Art. nr 1034,5.89,http://donegal.com.pl/2727-large_default/tarka-do-stop-steel-.jpg
+2062,Pedicure/Pedicure files,b'METAL FOOT FILE',Art. nr 9670,6.79,http://donegal.com.pl/2728-large_default/tarka-do-piet-lollipop-.jpg
+
+2817,Pedicure/Foot accessories,b'CALLUS SHAVER F\xc2\xb3 SYSTEMS',Art. nr 2597,11.19,http://donegal.com.pl/1997-large_default/f-systems-scinak-do-stop-pomaranczowy.jpg
+2818,Pedicure/Foot accessories,b'CALLUS SHAVER F\xc2\xb3 SYSTEMS',Art. nr 2598,11.19,http://donegal.com.pl/590-large_default/f-systems-scinak-do-stop-fioletowy.jpg
+2819,Pedicure/Foot accessories,b'CALLUS SHAVER F\xc2\xb3 SYSTEMS',Art. nr 2599,11.19,http://donegal.com.pl/1330-large_default/f-systems-scinak-do-stop-rozowy.jpg
+2039,Pedicure/Foot accessories,b'\xc5\x9aCINAK DO SK\xc3\x93RY PI\xc4\x98T',Art. nr 2591,10.39,http://donegal.com.pl/2729-large_default/scinak-do-skory-piet.jpg
+2041,Pedicure/Foot accessories,b'CALLUS SHAVER',Art. nr 9543,8.99,http://donegal.com.pl/2730-large_default/scinak-do-skory-piet.jpg
+2038,Pedicure/Foot accessories,b'FOOT SHAVER RAZORS',Art. nr 2590,4.79,http://donegal.com.pl/2830-large_default/zyletki-do-scinaka.jpg
+2042,Pedicure/Foot accessories,b'TOE SEPARATOR',Art. nr 9766,1.99,http://donegal.com.pl/2826-large_default/separator-do-palcow-stop.jpg
+2816,Pedicure/Foot accessories,b'TOE SEPARATOR BEAUTY CARE',Art. nr 2562,1.99,http://donegal.com.pl/1267-large_default/separator-do-pedicure-beauty-care.jpg
+2507,Pedicure/Foot accessories,b'TOE SEPARATOR',Art. nr 2560,1.99,http://donegal.com.pl/2734-large_default/separator-do-palcow-u-stop.jpg
+2679,Pedicure/Foot accessories,b'COSMETIC COTTON SOCKS 2 pieces',Art. nr 6104,12.39,http://donegal.com.pl/1486-large_default/skarpetki-bawelniane-kosmetyczne-body-care-rozmiar-uniwersalny-2-szt.jpg
+3071,Pedicure/Foot accessories,b'PEDICURE CARE SET',Art. nr 2422,7.99,http://donegal.com.pl/541-large_default/komplet-do-manicure-alluring.jpg
+2503,Pedicure/Foot accessories,b'PEDICURE CARE SET',Art. nr 2537,5.19,http://donegal.com.pl/845-large_default/komplet-do-manicure-dla-dzieci.jpg
+2434,Pedicure/Foot accessories,b'TOE AND FINGER NAIL BRUSH F\xc2\xb3 SYSTEMS',Art. nr 2551,22.39,http://donegal.com.pl/2157-large_default/szczoteczka-do-stop.jpg
+2050,Pedicure/Foot accessories,b'NAIL BRUSH WITH NATURAL PUMICE STONE',Art. nr 9661,7.39,http://donegal.com.pl/2735-large_default/pumeks-ze-szczoteczka.jpg
+
+916,Body/Natural accessories,b'SISAL BATH GLOVE NATURE GIFT',Art. nr 9446,10.19,http://donegal.com.pl/2609-large_default/rekawica-do-mycia-i-masazu-sizal.jpg
+2424,Body/Natural accessories,b'SISAL BATH AND MASSAGE GLOVE NATURE GIFT',Art. nr 9550,10.49,http://donegal.com.pl/1758-large_default/rekawica-do-mycia-i-masazu.jpg
+920,Body/Natural accessories,b'SISAL BATH SPONGE',Art. nr 9534,8.99,http://donegal.com.pl/2736-large_default/gabka-do-kapieli-sizal.jpg
+927,Body/Natural accessories,b'SISAL BATH LOOFAH PAD',Art. nr 9711,4.99,http://donegal.com.pl/2739-large_default/myjka-do-mycia-i-masazu-sizal.jpg
+926,Body/Natural accessories,b'SISAL BACK SCRUBBER BELT',Art. nr 9710,12.29,http://donegal.com.pl/2233-large_default/pas-do-masazu-i-kapieli.jpg
+918,Body/Natural accessories,b'SISAL BACK SCRUBBER BELT',Art. nr 9449,14.19,http://donegal.com.pl/2742-large_default/pas-do-masazu-ciala-z-naturalnego-wlokna.jpg
+919,Body/Natural accessories,b'WOODEN BATH AND MASSAGE BRUSH',Art. nr 9451,20.99,http://donegal.com.pl/732-large_default/szczotka-do-mycia-i-masazu-sizal.jpg
+924,Body/Natural accessories,b'SZCZOTKA DO MYCIA I MASA\xc5\xbbU CIA\xc5\x81A Z SIZALU',Art. nr 9548,27.99,http://donegal.com.pl/1348-large_default/szczotka-do-mycia-i-masazu-ciala-z-sizalu.jpg
+3304,Body/Natural accessories,b'WOODEN HAND AND NAIL BRUSH NATURE GIFT',Art. nr 6027,6.89,http://donegal.com.pl/199-large_default/szczoteczka-do-rak-nature-gift.jpg
+3091,Body/Natural accessories,b'SOY BACK SCRUBBER BELT BEAUTY SOY',Art. nr 6334,15.49,http://donegal.com.pl/939-large_default/pas-kapielowy-beauty-soy.jpg
+3083,Body/Natural accessories,b'BAMBOO BATH SPONGE BEAUTY BAM',Art. nr 6321,16.89,http://donegal.com.pl/35-large_default/gabka-kapielowa-beauty-bam.jpg
+3249,Body/Natural accessories,b'BAMBOO BATH SPONGE BEAUTY BAM',Art. nr 6320,13.29,http://donegal.com.pl/113-large_default/gabka-kapielowa-beauty-bam.jpg
+3087,Body/Natural accessories,b'SOY BATH SPONGE BEAUTY SOY',Art. nr 6330,13.29,http://donegal.com.pl/859-large_default/gabka-kapielowa-beauty-soy.jpg
+3088,Body/Natural accessories,b'SOY LOOFAH BATH PAD BEAUTY SOY',Art. nr 6331,18.19,http://donegal.com.pl/1591-large_default/gabka-kapielowa-beauty-soy.jpg
+3089,Body/Natural accessories,b'SOY BATH GLOVE BEAUTY SOY',Art. nr 6332,18.19,http://donegal.com.pl/1868-large_default/rekawica-kapielowa-beauty-soy.jpg
+3094,Body/Natural accessories,b'BATH SET',Art. nr 6342,37.99,http://donegal.com.pl/2828-large_default/zestaw-toaletowy-bam-home.jpg
+3250,Body/Natural accessories,b'DOUBLE SIDED QUARTZ FOOT FILE',Art. nr 2545,6.19,http://donegal.com.pl/2119-large_default/tarka-drewniana-do-stop-nature-gift.jpg
+2061,Body/Natural accessories,b'WOODEN FOOT FILE',Art. nr 9533,4.29,http://donegal.com.pl/1735-large_default/tarka-do-stop-nature-.jpg
+923,Body/Natural accessories,b'R\xc4\x98KAWICA Z MASA\xc5\xbbEREM',Art. nr 9537,14.39,http://donegal.com.pl/1524-large_default/rekawica-z-masazerem.jpg
+3305,Body/Natural accessories,b'One - sided pocket mirror NATURE GIFT',Art. nr 4531,5.89,http://donegal.com.pl/959-large_default/lusterko-jednostronne-nature-gift.jpg
+
+3785,Body/Toilet accessories,b'TOOTHBRUSH COVER SET',Art. nr 6038,2.19,http://donegal.com.pl/2700-large_default/6038.jpg
+3043,Body/Toilet accessories,b'PLASTIC BATHROOM CUP FOR KIDS',Art. nr 6022,2.89,http://donegal.com.pl/818-large_default/kubek-lazienkowy-kids.jpg
+3045,Body/Toilet accessories,b'PLASTIC SOAP CASE FOR KIDS',Art. nr 6024,3.39,http://donegal.com.pl/135-large_default/mydelniczka-kids.jpg
+3044,Body/Toilet accessories,b'ETUI NA SZCZOTECZK\xc4\x98 DO Z\xc4\x98B\xc3\x93W KIDS',Art. nr 6023,2.99,http://donegal.com.pl/1551-large_default/etui-na-szczoteczke-do-zebow-kids.jpg
+931,Body/Toilet accessories,b'PLASTIC SOAP CASE',Art. nr 9332,2.59,http://donegal.com.pl/1904-large_default/mydelniczka.jpg
+932,Body/Toilet accessories,b'PLASTIC TOOTHBRUSH CASE',Art. nr 9333,2.19,http://donegal.com.pl/1175-large_default/etui-na-szczoteczke-do-zebow.jpg
+934,Body/Toilet accessories,b'PLASTIC BATHROOM CUP',Art. nr 9541,1.89,http://donegal.com.pl/1827-large_default/kubek-lazienkowy.jpg
+928,Body/Toilet accessories,b'TRAVEL TOILET SET FOR KIDS',Art. nr 6007,11.99,http://donegal.com.pl/1377-large_default/zestaw-toaletowy-kids.jpg
+933,Body/Toilet accessories,b'TRAVEL TOILET SET',Art. nr 9500,11.99,http://donegal.com.pl/2598-large_default/zestaw-podrozny-3-czesciowy.jpg
+3237,Body/Toilet accessories,b'Sonic face brush SONIMATIC',Art. nr 6026,224.99,http://donegal.com.pl/1603-large_default/soniczna-szczoteczka-do-twarzy-sonimatic.jpg
+3301,Body/Toilet accessories,b'TRAVEL BOTTLES SET',Art. nr 6028,13.19,http://donegal.com.pl/1000-large_default/zestaw-pojemnikow-podroznych.jpg
+2067,Body/Toilet accessories,b'TRIMMER',Art. nr 7003,30.39,http://donegal.com.pl/574-large_default/trymer-meski.jpg
+2078,Body/Toilet accessories,b'SHAVING BRUSH NATURAL FIBER',Art. nr 9938,61.79,http://donegal.com.pl/2600-large_default/pedzel-do-golenia-z-borsuka.jpg
+2074,Body/Toilet accessories,b'P\xc4\x98DZEL DO GOLENIA',Art. nr 9615,11.99,http://donegal.com.pl/1433-large_default/pedzel-do-golenia.jpg
+2068,Body/Toilet accessories,b'P\xc4\x98DZEL DO GOLENIA',Art. nr 9462,16.59,http://donegal.com.pl/2601-large_default/pedzel-do-golenia.jpg
+2069,Body/Toilet accessories,b'SHAVING BRUSH NATURAL FIBER',Art. nr 9463,17.29,http://donegal.com.pl/2051-large_default/pedzel-do-golenia.jpg
+2071,Body/Toilet accessories,b'SHAVING BRUSH NATURAL FIBER',Art. nr 9519,11.99,http://donegal.com.pl/2602-large_default/pedzel-do-golenia.jpg
+2072,Body/Toilet accessories,b'SHAVING BRUSH',Art. nr 9572,2.59,http://donegal.com.pl/2603-large_default/pedzel-do-golenia.jpg
+2073,Body/Toilet accessories,b'SHAVING BRUSH',Art. nr 9573,4.89,http://donegal.com.pl/2604-large_default/pedzel-do-golenia.jpg
+3663,Body/Toilet accessories,b'SHAVING BRUSH',Art. nr 2300,19.29,http://donegal.com.pl/115-large_default/pedzel-do-golenia.jpg
+
+3782,Body/Bath sponges,b'BATH SPONGE WITH WOODEN REACH HANDLE',Art. nr 6036,17.99,http://donegal.com.pl/2743-large_default/6036.jpg
+3783,Body/Bath sponges,b'BATH SPONGE WITH PLASTIC REACH HANDLE',Art. nr 6037,10.69,http://donegal.com.pl/2744-large_default/6037.jpg
+920,Body/Bath sponges,b'SISAL BATH SPONGE',Art. nr 9534,8.99,http://donegal.com.pl/2736-large_default/gabka-do-kapieli-sizal.jpg
+927,Body/Bath sponges,b'SISAL BATH LOOFAH PAD',Art. nr 9711,4.99,http://donegal.com.pl/2739-large_default/myjka-do-mycia-i-masazu-sizal.jpg
+926,Body/Bath sponges,b'SISAL BACK SCRUBBER BELT',Art. nr 9710,12.29,http://donegal.com.pl/2233-large_default/pas-do-masazu-i-kapieli.jpg
+918,Body/Bath sponges,b'SISAL BACK SCRUBBER BELT',Art. nr 9449,14.19,http://donegal.com.pl/2742-large_default/pas-do-masazu-ciala-z-naturalnego-wlokna.jpg
+3812,Body/Bath sponges,b'Face cleansing brush',Art. nr 6039,14.49,http://donegal.com.pl/2879-large_default/6039.jpg
+3249,Body/Bath sponges,b'BAMBOO BATH SPONGE BEAUTY BAM',Art. nr 6320,13.29,http://donegal.com.pl/113-large_default/gabka-kapielowa-beauty-bam.jpg
+3087,Body/Bath sponges,b'SOY BATH SPONGE BEAUTY SOY',Art. nr 6330,13.29,http://donegal.com.pl/859-large_default/gabka-kapielowa-beauty-soy.jpg
+3088,Body/Bath sponges,b'SOY LOOFAH BATH PAD BEAUTY SOY',Art. nr 6331,18.19,http://donegal.com.pl/1591-large_default/gabka-kapielowa-beauty-soy.jpg
+3091,Body/Bath sponges,b'SOY BACK SCRUBBER BELT BEAUTY SOY',Art. nr 6334,15.49,http://donegal.com.pl/939-large_default/pas-kapielowy-beauty-soy.jpg
+953,Body/Bath sponges,b'BATH SPONGE',Art. nr 9528,5.19,http://donegal.com.pl/1435-large_default/gabka-do-mycia-jezyk.jpg
+955,Body/Bath sponges,b'BATH LOOFAH SPONGE',Art. nr 9549,3.79,http://donegal.com.pl/2755-large_default/myjka-do-mycia-ciala.jpg
+949,Body/Bath sponges,b'BATH SPONGE',Art. nr 6008,6.99,http://donegal.com.pl/2607-large_default/gabka-do-ciala-okragla.jpg
+950,Body/Bath sponges,b'BATH SPONGE',Art. nr 6009,7.19,http://donegal.com.pl/2191-large_default/gabka-do-kapieli-kropla.jpg
+952,Body/Bath sponges,b'BATH SPONGE',Art. nr 9213,5.69,http://donegal.com.pl/2608-large_default/gabka-kapielowa.jpg
+2859,Body/Bath sponges,b'BATH SPONGE',Art. nr 6018,4.49,http://donegal.com.pl/2831-large_default/gabka-do-masazu-i-kapieli-relax.jpg
+2860,Body/Bath sponges,b'BATH SPONGE',Art. nr 6019,4.49,http://donegal.com.pl/2832-large_default/gabka-do-masazu-i-kapieli-peeling-155x105x45-cm.jpg
+2801,Body/Bath sponges,b'BATH SPONGE',Art. nr 6017,3.19,http://donegal.com.pl/2697-large_default/gabka-kapielowa-owalna-family-.jpg
+2669,Body/Bath sponges,b'BATH SPONGE',Art. nr 6016,2.79,http://donegal.com.pl/1985-large_default/gabka-do-masazu.jpg
+2668,Body/Bath sponges,b'BATH SPONGE',Art. nr 6015,2.49,http://donegal.com.pl/943-large_default/gabka-kapielowa-spa.jpg
+
+916,Body/Gloves,b'SISAL BATH GLOVE NATURE GIFT',Art. nr 9446,10.19,http://donegal.com.pl/2609-large_default/rekawica-do-mycia-i-masazu-sizal.jpg
+2424,Body/Gloves,b'SISAL BATH AND MASSAGE GLOVE NATURE GIFT',Art. nr 9550,10.49,http://donegal.com.pl/1758-large_default/rekawica-do-mycia-i-masazu.jpg
+3089,Body/Gloves,b'SOY BATH GLOVE BEAUTY SOY',Art. nr 6332,18.19,http://donegal.com.pl/1868-large_default/rekawica-kapielowa-beauty-soy.jpg
+963,Body/Gloves,b'BATH AND MASSAGE GLOVE',Art. nr 9687,4.19,http://donegal.com.pl/2610-large_default/rekawica-do-masazu.jpg
+2862,Body/Gloves,b'BATH AND MASSAGE GLOVE',Art. nr 6021,6.59,http://donegal.com.pl/1128-large_default/rekawica-do-masazu-aqua.jpg
+3136,Body/Gloves,b'COSMETIC COTTON GLOVES 2 pieces',Art. nr 6105,14.39,http://donegal.com.pl/73-large_default/rekawiczki-bawelniane-kosmetyczne-ze-sciagaczem-body-care-rozmiar-uniwersalny-2szt.jpg
+961,Body/Gloves,b'R\xc4\x98KAWICA DO MYCIA Z MIKROFIBRY',Art. nr 6102,10.89,http://donegal.com.pl/1105-large_default/rekawica-do-mycia-z-mikrofibry.jpg
+
+924,Body/Bath brushes,b'SZCZOTKA DO MYCIA I MASA\xc5\xbbU CIA\xc5\x81A Z SIZALU',Art. nr 9548,27.99,http://donegal.com.pl/1348-large_default/szczotka-do-mycia-i-masazu-ciala-z-sizalu.jpg
+919,Body/Bath brushes,b'WOODEN BATH AND MASSAGE BRUSH',Art. nr 9451,20.99,http://donegal.com.pl/732-large_default/szczotka-do-mycia-i-masazu-sizal.jpg
+3304,Body/Bath brushes,b'WOODEN HAND AND NAIL BRUSH NATURE GIFT',Art. nr 6027,6.89,http://donegal.com.pl/199-large_default/szczoteczka-do-rak-nature-gift.jpg
+2434,Body/Bath brushes,b'TOE AND FINGER NAIL BRUSH F\xc2\xb3 SYSTEMS',Art. nr 2551,22.39,http://donegal.com.pl/2157-large_default/szczoteczka-do-stop.jpg
+972,Body/Bath brushes,b'NAIL BRUSH',Art. nr 9903,4.19,http://donegal.com.pl/2612-large_default/szczoteczka-do-mycia-rak.jpg
+2043,Body/Bath brushes,b'FOOT BRUSH WITH PUMICE STONE',Art. nr 1083,5.49,http://donegal.com.pl/30-large_default/szczoteczka-z-pumeksem.jpg
+970,Body/Bath brushes,b'BATH AND MASSAGE BRUSH',Art. nr 9704,11.99,http://donegal.com.pl/1286-large_default/szczotka-do-mycia-ciala.jpg
+967,Body/Bath brushes,b'NAIL BRUSH',Art. nr 6010,3.79,http://donegal.com.pl/244-large_default/szczoteczka-do-rak.jpg
+966,Body/Bath brushes,b'DUAL NAIL BRUSH',Art. nr 2550,5.99,http://donegal.com.pl/2752-large_default/szczotka-do-rak.jpg
+971,Body/Bath brushes,b'NAIL BRUSH',Art. nr 9754,2.29,http://donegal.com.pl/2757-large_default/szczoteczka-do-rak.jpg
+2050,Body/Bath brushes,b'NAIL BRUSH WITH NATURAL PUMICE STONE',Art. nr 9661,7.39,http://donegal.com.pl/2735-large_default/pumeks-ze-szczoteczka.jpg
+
+3842,Body/Cosmetic Bag,b'Space cosmetic bag',Art. nr 4973,21.55,http://donegal.com.pl/3004-large_default/4973.jpg
+3843,Body/Cosmetic Bag,b'Space cosmetic bag',Art. nr 4974,32.38,http://donegal.com.pl/3005-large_default/4974.jpg
+3848,Body/Cosmetic Bag,b'Metalic rose cosmetic bag',Art. nr 4979,24.19,http://donegal.com.pl/3010-large_default/4979.jpg
+3849,Body/Cosmetic Bag,b'Metalic rose cosmetic bag',Art. nr 4980,25.45,http://donegal.com.pl/3011-large_default/4980.jpg
+3850,Body/Cosmetic Bag,b'Marine cosmetic bag',Art. nr 4981,17.64,http://donegal.com.pl/3012-large_default/4981.jpg
+3851,Body/Cosmetic Bag,b'Marine cosmetic bag',Art. nr 4982,20.79,http://donegal.com.pl/3013-large_default/4982.jpg
+3838,Body/Cosmetic Bag,b'Pink cosmetic bag',Art. nr 4969,18.27,http://donegal.com.pl/3000-large_default/4969.jpg
+3839,Body/Cosmetic Bag,b'Pink cosmetic bag',Art. nr 4970,22.68,http://donegal.com.pl/3001-large_default/4970.jpg
+3845,Body/Cosmetic Bag,b'Blue cosmetic bag',Art. nr 4976,18.27,http://donegal.com.pl/3007-large_default/4976.jpg
+3844,Body/Cosmetic Bag,b'Blue cosmetic bag',Art. nr 4975,27.71,http://donegal.com.pl/3006-large_default/4975.jpg
+3847,Body/Cosmetic Bag,b'Silver cosmetic bag',Art. nr 4978,20.16,http://donegal.com.pl/3009-large_default/4978.jpg
+3846,Body/Cosmetic Bag,b'Silver cosmetic bag',Art. nr 4977,27.71,http://donegal.com.pl/3008-large_default/4977.jpg
+3841,Body/Cosmetic Bag,b'Black&gold cosmetic bag',Art. nr 4972,25.45,http://donegal.com.pl/3003-large_default/4972.jpg
+3840,Body/Cosmetic Bag,b'Black&gold cosmetic bag',Art. nr 4971,31.50,http://donegal.com.pl/3002-large_default/4971.jpg
+3680,Body/Cosmetic Bag,b'COSMETIC BAG',Art. nr 4967,43.79,http://donegal.com.pl/1687-large_default/kosmetyczka-podrozna-rozkladana-match-up.jpg
+2850,Body/Cosmetic Bag,b'COSMETIC BAG',Art. nr 4954,30.69,http://donegal.com.pl/1964-large_default/kosmetyczka-zolta-18x55x12-cm.jpg
+2851,Body/Cosmetic Bag,b'KOSMETYCZKA \xc5\xbb\xc3\x93\xc5\x81TA 16.5x8x12 CM',Art. nr 4955,33.39,http://donegal.com.pl/558-large_default/kosmetyczka-zolta-165x8x12-cm.jpg
+2843,Body/Cosmetic Bag,b'COSMETIC BAG',Art. nr 4947,49.39,http://donegal.com.pl/1078-large_default/kosmetyczka-rozowa-27x9x16-cm.jpg
+2840,Body/Cosmetic Bag,b'COSMETIC BAG',Art. nr 4944,50.79,http://donegal.com.pl/997-large_default/kosmetyczka-rozowa-17x7x12-cm.jpg
+2841,Body/Cosmetic Bag,b'COSMETIC BAG',Art. nr 4945,71.89,http://donegal.com.pl/1731-large_default/kosmetyczka-rozowa-24x7x19-cm.jpg
+2683,Body/Cosmetic Bag,b'COSMETIC BAG',Art. nr 4879,29.49,http://donegal.com.pl/2055-large_default/kosmetyczka-summer-duza-zolta.jpg
+
+3081,/PROMOCJE,b'Make-up sponge BLENDING SPONGE',Art. nr 4304,13.99,http://donegal.com.pl/2379-large_default/gabka-do-makijazublending-sponge.jpg
+3665,/PROMOCJE,b'Make-up sponge BLENDING SPONGE JUNGLE',Art. nr 4323,14.99,http://donegal.com.pl/2378-large_default/gabka-do-makijazu-blending-sponge-super-soft.jpg
+3584,/PROMOCJE,b'Make-up mini sponge BLENDING SPONGE 2 pcs',Art. nr 4309,13.99,http://donegal.com.pl/1326-large_default/mini-blending-sponge.jpg
+3641,/PROMOCJE,b'Make-up sponge French macarons 2 pcs',Art. nr 4319,24.49,http://donegal.com.pl/147-large_default/gabeczka-do-makijazu-2-szt.jpg
+3642,/PROMOCJE,b'Make-up sponge French macaron',Art. nr 4318,13.19,http://donegal.com.pl/1150-large_default/gabeczka-do-makijazu.jpg
+3814,/PROMOCJE,b'Marble make-up sponge BLENDING SPONGE',Art. nr 4326,16.89,http://donegal.com.pl/2969-large_default/4326.jpg
+3802,/PROMOCJE,b'Make-up sponge 3 pcs',Art. nr 4327,8.59,http://donegal.com.pl/2846-large_default/4327.jpg
+3777,/PROMOCJE,b'Make-up sponge Hearts 4 pcs',Art. nr 9672,5.79,http://donegal.com.pl/2964-large_default/9672.jpg
+3309,/PROMOCJE,b'Make-up sponge 4 pcs',Art. nr 4305,5.99,http://donegal.com.pl/1040-large_default/gabki-do-makijazu-4szt.jpg
+1296,/PROMOCJE,b'Make-up sponge 8 pcs',Art. nr 4300,5.59,http://donegal.com.pl/1123-large_default/gabka-kosmetyczna-8-szt.jpg
+3314,/PROMOCJE,b'Make-up sponge 4 pcs',Art. nr 4307,6.99,http://donegal.com.pl/241-large_default/gabeczki-do-makijazu-4-szt.jpg
+3310,/PROMOCJE,b'Make-up sponge 4 pcs',Art. nr 4306,5.99,http://donegal.com.pl/121-large_default/gabeczki-do-makijazu-4-szt.jpg
+1297,/PROMOCJE,b'Make-up sponge 24 pcs',Art. nr 4301,9.69,http://donegal.com.pl/2668-large_default/gabka-kosmetyczna-24-szt.jpg
+3827,/PROMOCJE,b'Make-up sponge 12 pcs',Art. nr 4328,6.19,http://donegal.com.pl/2971-large_default/4328.jpg
+1295,/PROMOCJE,b'Cosmetic sponge 2 pcs',Art. nr 1077,7.39,http://donegal.com.pl/1864-large_default/gabka-lateksowa-kpl-2-szt.jpg
+1304,/PROMOCJE,b'Cosmetic sponge',Art. nr 9265,3.99,http://donegal.com.pl/1202-large_default/gabka-lateksowa.jpg
+1298,/PROMOCJE,b'Make-up sponge',Art. nr 4302,7.49,http://donegal.com.pl/2377-large_default/gabka-kosmetyczna-okragla.jpg
+1306,/PROMOCJE,b'Cosmetic sponge 25 pcs',Art. nr 9671,4.59,http://donegal.com.pl/1214-large_default/gabka-lateksowa-25-szt.jpg
